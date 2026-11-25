@@ -1,0 +1,5762 @@
+[
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6313131313131314,
+    "ci_low": 0.5230965909090909,
+    "ci_high": 0.7274021464646464
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3787522404885799,
+    "ci_low": 0.11314190529852941,
+    "ci_high": 0.6297327053564279
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.009222371885009281,
+    "ci_low": -0.01347181521668557,
+    "ci_high": 0.03271496912522078
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_eff",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5055729841938871,
+    "ci_low": 0.48865861709354275,
+    "ci_high": 0.5190782949386397
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6305555555555555,
+    "ci_low": 0.5215877525252525,
+    "ci_high": 0.7266414141414141
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3779437044304183,
+    "ci_low": 0.11057748401962325,
+    "ci_high": 0.6286290725588489
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.010276631004128322,
+    "ci_low": -0.012237833148048783,
+    "ci_high": 0.03374574007820316
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.506348704264707,
+    "ci_low": 0.48892943573524844,
+    "ci_high": 0.5201741343466265
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6318181818181817,
+    "ci_low": 0.5244823232323234,
+    "ci_high": 0.7272758838383839
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3796963280466949,
+    "ci_low": 0.11460523388215142,
+    "ci_high": 0.6295638864392625
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "is_sharpe",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.00919098071569981,
+    "ci_low": -0.01338489051199591,
+    "ci_high": 0.03263669973132215
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "is_sharpe",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5055450951698357,
+    "ci_low": 0.48849203883718617,
+    "ci_high": 0.5189676719024291
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6362373737373737,
+    "ci_low": 0.5335858585858586,
+    "ci_high": 0.7278124999999998
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.39031008112226834,
+    "ci_low": 0.12394995416378216,
+    "ci_high": 0.6403536168512808
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.017448345455878807,
+    "ci_low": 0.0013442461242535173,
+    "ci_high": 0.03271563117924563
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5131101266011916,
+    "ci_low": 0.5004960534106018,
+    "ci_high": 0.5238034287346286
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2812503134501763,
+    "ci_low": 0.24584582358974658,
+    "ci_high": 0.3197365269516329
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3689676814853376,
+    "ci_low": 0.3272457103435389,
+    "ci_high": 0.41453606946658217
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6296717171717172,
+    "ci_low": 0.5260006313131312,
+    "ci_high": 0.7180902777777775
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3783186939372763,
+    "ci_low": 0.11727728412468613,
+    "ci_high": 0.621536713594585
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.006009666624396456,
+    "ci_low": -0.015837315507207902,
+    "ci_high": 0.02707753676199349
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.49933198918877814,
+    "ci_low": 0.4883600164691112,
+    "ci_high": 0.5109168123496186
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2643410154323435,
+    "ci_low": 0.24703707879152592,
+    "ci_high": 0.28516055163877446
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3468157069056557,
+    "ci_low": 0.32762287766175086,
+    "ci_high": 0.3691002790129043
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6290404040404041,
+    "ci_low": 0.5276515151515151,
+    "ci_high": 0.7213510101010101
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3868515234657663,
+    "ci_low": 0.11948980223333666,
+    "ci_high": 0.6451189546541514
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.014233810955110242,
+    "ci_low": -0.004170242315680031,
+    "ci_high": 0.030437541300755492
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5095852677899062,
+    "ci_low": 0.49593667138957415,
+    "ci_high": 0.5201693061086986
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.28237321741068466,
+    "ci_low": 0.24771692375102858,
+    "ci_high": 0.3197531974271341
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.36930432624903664,
+    "ci_low": 0.3281203404125272,
+    "ci_high": 0.41325730603234273
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6275252525252525,
+    "ci_low": 0.5247443181818182,
+    "ci_high": 0.7179482323232323
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3810683397035355,
+    "ci_low": 0.11772800824241533,
+    "ci_high": 0.6362711686294201
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.011184663603037204,
+    "ci_low": -0.007727418636147247,
+    "ci_high": 0.027657097480821378
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5077983924214781,
+    "ci_low": 0.4945386839868657,
+    "ci_high": 0.5217291931553897
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2691935670095806,
+    "ci_low": 0.2500552113285725,
+    "ci_high": 0.2912425404560876
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.35333002063067825,
+    "ci_low": 0.3327249561312278,
+    "ci_high": 0.37642042627168165
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6266414141414142,
+    "ci_low": 0.5241098484848484,
+    "ci_high": 0.7209627525252524
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3625582410261336,
+    "ci_low": 0.09856835737197205,
+    "ci_high": 0.6283744064449651
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.004762748334072755,
+    "ci_low": -0.01777391022232184,
+    "ci_high": 0.026471934909092002
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.50525159990413,
+    "ci_low": 0.49140268633555445,
+    "ci_high": 0.5194913387448987
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2899304732235806,
+    "ci_low": 0.2523207070728322,
+    "ci_high": 0.32931922470121333
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.37999881754232623,
+    "ci_low": 0.331791300499681,
+    "ci_high": 0.4320716749021226
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.615909090909091,
+    "ci_low": 0.5136300505050505,
+    "ci_high": 0.7029292929292928
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3430713525077561,
+    "ci_low": 0.0875499784622064,
+    "ci_high": 0.5897711396838583
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": -0.004875881284565805,
+    "ci_low": -0.025080612113483332,
+    "ci_high": 0.016751775563182424
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.48458206304639473,
+    "ci_low": 0.4651296359160002,
+    "ci_high": 0.500101899144786
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.26630714602668837,
+    "ci_low": 0.22578203073403866,
+    "ci_high": 0.31167128557725604
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3461371667076127,
+    "ci_low": 0.30592474313325674,
+    "ci_high": 0.391886873353639
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6292929292929292,
+    "ci_low": 0.5265056818181818,
+    "ci_high": 0.721852904040404
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3668892386137138,
+    "ci_low": 0.10131930226928103,
+    "ci_high": 0.6310378541322347
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.005035087983702311,
+    "ci_low": -0.019293900163397815,
+    "ci_high": 0.030198002503568477
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.505911421938472,
+    "ci_low": 0.49201635980491,
+    "ci_high": 0.5202126316100707
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2904323634659812,
+    "ci_low": 0.25279970225272613,
+    "ci_high": 0.32996185445290876
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.38094044523239307,
+    "ci_low": 0.3330334143503701,
+    "ci_high": 0.4324421056585178
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.618939393939394,
+    "ci_low": 0.5151483585858586,
+    "ci_high": 0.7063257575757576
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3492249889093943,
+    "ci_low": 0.09174494404641453,
+    "ci_high": 0.5952231037913802
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": -0.007289608282981573,
+    "ci_low": -0.029444960339558388,
+    "ci_high": 0.01762246172222405
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.4856362948160431,
+    "ci_low": 0.4631045681469817,
+    "ci_high": 0.5038280702839323
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2672708932566318,
+    "ci_low": 0.2261613752727434,
+    "ci_high": 0.3114797362308918
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3474171965767182,
+    "ci_low": 0.30678964858640195,
+    "ci_high": 0.39227240208850483
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "random",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6367424242424242,
+    "ci_low": 0.5367424242424242,
+    "ci_high": 0.7266666666666665
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3951881924747538,
+    "ci_low": 0.1347967700933566,
+    "ci_high": 0.6417437199726396
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "random",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.006282895934016733,
+    "ci_low": -8.116456222876116e-05,
+    "ci_high": 0.013405167055302031
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "method": "random",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5028091682894751,
+    "ci_low": 0.4943646652887085,
+    "ci_high": 0.5111722031766271
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.593308080808081,
+    "ci_low": 0.4825694444444445,
+    "ci_high": 0.6925599747474748
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.26639086347054125,
+    "ci_low": 0.0062339726635750456,
+    "ci_high": 0.5178037004518686
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.025277946899267236,
+    "ci_low": 0.0015078672457654065,
+    "ci_high": 0.04826856149490147
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_eff",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5169270056651,
+    "ci_low": 0.4951647472075426,
+    "ci_high": 0.5363504686576868
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.592929292929293,
+    "ci_low": 0.48282512626262625,
+    "ci_high": 0.6918087121212121
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.265732661167748,
+    "ci_low": 0.003100925172225157,
+    "ci_high": 0.5168546371713738
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.026288870173022973,
+    "ci_low": 0.0025610984865352573,
+    "ci_high": 0.04931146110940571
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5175025295442945,
+    "ci_low": 0.4954455017265762,
+    "ci_high": 0.5369984646478835
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5938131313131313,
+    "ci_low": 0.4843371212121212,
+    "ci_high": 0.6930555555555554
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.2675288390085566,
+    "ci_low": 0.007192496949910659,
+    "ci_high": 0.5181367629895872
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "is_sharpe",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.025297480693929564,
+    "ci_low": 0.0015900949855614356,
+    "ci_high": 0.048251326555140236
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "is_sharpe",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.516787977897528,
+    "ci_low": 0.49499451710287234,
+    "ci_high": 0.5362363733426545
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5925505050505051,
+    "ci_low": 0.48711174242424243,
+    "ci_high": 0.6887815656565656
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.27008239158436215,
+    "ci_low": 0.002889766365326556,
+    "ci_high": 0.5249093123205462
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.025178095490091635,
+    "ci_low": 0.007562158186403523,
+    "ci_high": 0.04377578078365735
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5200206402865034,
+    "ci_low": 0.5087320400953333,
+    "ci_high": 0.5294440126497943
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.28564140299660584,
+    "ci_low": 0.2564306639242508,
+    "ci_high": 0.31801504474178494
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3678657189952263,
+    "ci_low": 0.33083954645557445,
+    "ci_high": 0.40639948653515673
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5881313131313132,
+    "ci_low": 0.48458964646464653,
+    "ci_high": 0.679955808080808
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.26700045877754097,
+    "ci_low": 0.00652815034558442,
+    "ci_high": 0.5193240683485172
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.022760362770592405,
+    "ci_low": 0.00036423521393235965,
+    "ci_high": 0.04486046067975061
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5090518570284281,
+    "ci_low": 0.4946637481071828,
+    "ci_high": 0.5226783026105517
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2768267029078582,
+    "ci_low": 0.2579476934203865,
+    "ci_high": 0.29802359637439246
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.356087138353125,
+    "ci_low": 0.334396795909069,
+    "ci_high": 0.38195038943057064
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5849747474747474,
+    "ci_low": 0.4820549242424242,
+    "ci_high": 0.6825852272727272
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.2657443246017209,
+    "ci_low": 0.0016851945344297493,
+    "ci_high": 0.5299236148764547
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.020288883148227143,
+    "ci_low": -0.0016130018907030872,
+    "ci_high": 0.03860865211993219
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5162950936343704,
+    "ci_low": 0.5027031799402202,
+    "ci_high": 0.5280716955413952
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2864872730923939,
+    "ci_low": 0.25759386145398216,
+    "ci_high": 0.317619469983307
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3690783066497947,
+    "ci_low": 0.332172413317467,
+    "ci_high": 0.4058988595381964
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.585479797979798,
+    "ci_low": 0.48382575757575763,
+    "ci_high": 0.6794318181818182
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.26710104068121104,
+    "ci_low": 0.0040848423537217385,
+    "ci_high": 0.5279991678186191
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.02455980001956458,
+    "ci_low": 0.005833847972654448,
+    "ci_high": 0.04141435111094765
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5152963569866419,
+    "ci_low": 0.4994382528286023,
+    "ci_high": 0.5281512064295121
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.28076904237321004,
+    "ci_low": 0.2607070045362128,
+    "ci_high": 0.3032019229903678
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3615276340178485,
+    "ci_low": 0.3371973739048981,
+    "ci_high": 0.3891754826998074
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5801767676767677,
+    "ci_low": 0.47398358585858585,
+    "ci_high": 0.6785574494949493
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.23395998093416032,
+    "ci_low": -0.029448164979061834,
+    "ci_high": 0.5034870744782894
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.01336340274669743,
+    "ci_low": -0.008868590288119378,
+    "ci_high": 0.03666787808542646
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5104239292116826,
+    "ci_low": 0.4964530105168948,
+    "ci_high": 0.5247142871342719
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.29835168791467553,
+    "ci_low": 0.2664193450375572,
+    "ci_high": 0.33166557009071135
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.38308576522730564,
+    "ci_low": 0.3416261984710451,
+    "ci_high": 0.4242017542632001
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5727272727272728,
+    "ci_low": 0.47082702020202033,
+    "ci_high": 0.6629356060606059
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.22494591055299715,
+    "ci_low": -0.026618751973745625,
+    "ci_high": 0.47706412377024493
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.015124445600374152,
+    "ci_low": -0.013256329105843246,
+    "ci_high": 0.04417370006504085
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.4991064760256222,
+    "ci_low": 0.483168146732278,
+    "ci_high": 0.513600216796017
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2872411283722751,
+    "ci_low": 0.24489390518901602,
+    "ci_high": 0.3322008675320258
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3621008564674284,
+    "ci_low": 0.31912441764074884,
+    "ci_high": 0.4094153828034205
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5797979797979799,
+    "ci_low": 0.47474116161616164,
+    "ci_high": 0.6757607323232323
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.23808795333169896,
+    "ci_low": -0.025660932222752203,
+    "ci_high": 0.5079678863144783
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.010894366535622035,
+    "ci_low": -0.014149387442429433,
+    "ci_high": 0.037487191114405106
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5063043065348656,
+    "ci_low": 0.4910282020381297,
+    "ci_high": 0.5217709674551838
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2988492780203285,
+    "ci_low": 0.2669166613773882,
+    "ci_high": 0.33169875396006454
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3839353339628648,
+    "ci_low": 0.34250307044709477,
+    "ci_high": 0.4244437529663797
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5748737373737373,
+    "ci_low": 0.4738604797979798,
+    "ci_high": 0.6662910353535353
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.22993722004787046,
+    "ci_low": -0.02258128265430038,
+    "ci_high": 0.48387030941375764
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.00944487099755269,
+    "ci_low": -0.020916286494370315,
+    "ci_high": 0.041608426629200945
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.49845662444360667,
+    "ci_low": 0.4797492133452904,
+    "ci_high": 0.5153067945241073
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2881673327312331,
+    "ci_low": 0.2456893104609839,
+    "ci_high": 0.3322387556170639
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.36341515811819386,
+    "ci_low": 0.3199459514008848,
+    "ci_high": 0.4106289663934819
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "random",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.592929292929293,
+    "ci_low": 0.4915372474747474,
+    "ci_high": 0.6877556818181818
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.2689467231547594,
+    "ci_low": 0.01271176406357744,
+    "ci_high": 0.5242741438522224
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "random",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.007035314032291978,
+    "ci_low": 0.0010404824329032433,
+    "ci_high": 0.013481151301254789
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "method": "random",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.49946968360432487,
+    "ci_low": 0.4905421118091894,
+    "ci_high": 0.509037073437024
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.652020202020202,
+    "ci_low": 0.547717803030303,
+    "ci_high": 0.7429387626262625
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4350973235410755,
+    "ci_low": 0.1699987325249981,
+    "ci_high": 0.6833547755126441
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.0014193203162204272,
+    "ci_low": -0.021084885686770333,
+    "ci_high": 0.025590079108224646
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_eff",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.49621583653559004,
+    "ci_low": 0.47935455645858094,
+    "ci_high": 0.5103364835693082
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6517676767676769,
+    "ci_low": 0.5457070707070706,
+    "ci_high": 0.7436994949494948
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4342109236815855,
+    "ci_low": 0.16641102604975955,
+    "ci_high": 0.6822896215685652
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.0024457831029821423,
+    "ci_low": -0.01995753726355255,
+    "ci_high": 0.02654767843164717
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.4969543853997671,
+    "ci_low": 0.4802025234845821,
+    "ci_high": 0.5111530901305528
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6527777777777778,
+    "ci_low": 0.5494917929292928,
+    "ci_high": 0.743465909090909
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.43593996271781993,
+    "ci_low": 0.170515524516929,
+    "ci_high": 0.6842416897065094
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "is_sharpe",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.0013366016234050966,
+    "ci_low": -0.021096021876837505,
+    "ci_high": 0.025457524439443758
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "is_sharpe",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.4962046568791884,
+    "ci_low": 0.47928780499505846,
+    "ci_high": 0.5106437977581083
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6582070707070707,
+    "ci_low": 0.5578124999999999,
+    "ci_high": 0.7453598484848483
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4506174994739297,
+    "ci_low": 0.18260796810971872,
+    "ci_high": 0.7005914045995638
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.01383343087332684,
+    "ci_low": -0.0026662508139212665,
+    "ci_high": 0.028508663803716562
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5107351770032154,
+    "ci_low": 0.49530240991958085,
+    "ci_high": 0.5240228105825823
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.27868672715534293,
+    "ci_low": 0.24083017147260483,
+    "ci_high": 0.32061179111281085
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3692801691967161,
+    "ci_low": 0.3229953827530401,
+    "ci_high": 0.4191227015787369
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6489898989898991,
+    "ci_low": 0.5449305555555556,
+    "ci_high": 0.7349968434343432
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4341309177180195,
+    "ci_low": 0.17132809561252516,
+    "ci_high": 0.6765462227316154
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": -0.0024925899169179187,
+    "ci_low": -0.02460607746672887,
+    "ci_high": 0.018171144900329457
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.49358442056499324,
+    "ci_low": 0.4806365949875106,
+    "ci_high": 0.5060116465516042
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.257662187857502,
+    "ci_low": 0.24089651533030926,
+    "ci_high": 0.2781441337875055
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.342235312496816,
+    "ci_low": 0.3242318944084054,
+    "ci_high": 0.3620811370426202
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6482323232323232,
+    "ci_low": 0.5487247474747475,
+    "ci_high": 0.7397727272727274
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4476163049079652,
+    "ci_low": 0.1815194883765126,
+    "ci_high": 0.704627613398699
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.011297874445515594,
+    "ci_low": -0.006298223369194459,
+    "ci_high": 0.026931663290876852
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5065745513860859,
+    "ci_low": 0.49070475874111813,
+    "ci_high": 0.5199908495366243
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.27987690159729084,
+    "ci_low": 0.2425946654922809,
+    "ci_high": 0.32040436779422393
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.36969591509943317,
+    "ci_low": 0.3241672452569814,
+    "ci_high": 0.41847568834995497
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6455808080808081,
+    "ci_low": 0.5407733585858585,
+    "ci_high": 0.7342424242424241
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.43824815235529274,
+    "ci_low": 0.17270601700479132,
+    "ci_high": 0.6909456679999622
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.003949793403149941,
+    "ci_low": -0.015083925338460567,
+    "ci_high": 0.020124189189754744
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5012417710392448,
+    "ci_low": 0.4856330313267649,
+    "ci_high": 0.5161067756316906
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.26289107703767345,
+    "ci_low": 0.24419209192673125,
+    "ci_high": 0.28429132732365775
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3483805044728456,
+    "ci_low": 0.32955221177705457,
+    "ci_high": 0.36891579143875725
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6511363636363636,
+    "ci_low": 0.5491161616161616,
+    "ci_high": 0.7428061868686867
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4271232798610179,
+    "ci_low": 0.1659517946240205,
+    "ci_high": 0.693645743465786
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.000344298929922341,
+    "ci_low": -0.024862720866412558,
+    "ci_high": 0.02428200581208925
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5032877714487868,
+    "ci_low": 0.4884564086262033,
+    "ci_high": 0.5177022006891608
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2851531218458394,
+    "ci_low": 0.24488386296898512,
+    "ci_high": 0.32823217203259086
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.37648384826713027,
+    "ci_low": 0.3228130478092486,
+    "ci_high": 0.43502669097883745
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6382575757575757,
+    "ci_low": 0.538001893939394,
+    "ci_high": 0.7209627525252524
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.40237932518010167,
+    "ci_low": 0.14323119804644469,
+    "ci_high": 0.6506671748447226
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": -0.015256547680915378,
+    "ci_low": -0.03283605334689209,
+    "ci_high": 0.0032314423647681525
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.4842514697063859,
+    "ci_low": 0.46425525019710323,
+    "ci_high": 0.5016820477352392
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.25541407987062437,
+    "ci_low": 0.21611310411297688,
+    "ci_high": 0.29896708659498156
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.336381136663938,
+    "ci_low": 0.2986002484458902,
+    "ci_high": 0.3792946127831536
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6521464646464648,
+    "ci_low": 0.5502304292929293,
+    "ci_high": 0.7429356060606058
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4315602291437882,
+    "ci_low": 0.16635662713111182,
+    "ci_high": 0.6942971847832918
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.002184830661223244,
+    "ci_low": -0.024497576582626607,
+    "ci_high": 0.02831791094158459
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5045649586511103,
+    "ci_low": 0.4896514584974801,
+    "ci_high": 0.5189686006667446
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.285650640098452,
+    "ci_low": 0.24523012928665075,
+    "ci_high": 0.32894195511900315
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.37766111065924074,
+    "ci_low": 0.32454694601459316,
+    "ci_high": 0.43573600893462144
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6396464646464647,
+    "ci_low": 0.5379955808080807,
+    "ci_high": 0.7228535353535354
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.40912511462250567,
+    "ci_low": 0.1499258412369089,
+    "ci_high": 0.6524210552746481
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": -0.01578804927180238,
+    "ci_low": -0.035196191428207006,
+    "ci_high": 0.0059272453260771065
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.48540799673620877,
+    "ci_low": 0.46190831642955804,
+    "ci_high": 0.5060071329901091
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2563603812719615,
+    "ci_low": 0.21733102982715802,
+    "ci_high": 0.2999832342768119
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3375490198526902,
+    "ci_low": 0.2995932655524893,
+    "ci_high": 0.3807438639332352
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "random",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6597222222222223,
+    "ci_low": 0.5617392676767676,
+    "ci_high": 0.7440656565656567
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.45848542937425985,
+    "ci_low": 0.1965973916615767,
+    "ci_high": 0.7005138570152244
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "random",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.005607902348902116,
+    "ci_low": -0.0007426846596113646,
+    "ci_high": 0.012589397636345125
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "method": "random",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5039096521045704,
+    "ci_low": 0.4919541609516486,
+    "ci_high": 0.5163285869111878
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6522727272727272,
+    "ci_low": 0.5370643939393941,
+    "ci_high": 0.7393939393939394
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.39007269888039614,
+    "ci_low": 0.08637860848565762,
+    "ci_high": 0.649247574313436
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.07365925925373393,
+    "ci_low": 0.025385994151267147,
+    "ci_high": 0.11779554112129084
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "is_dsr_eff",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.549662614435083,
+    "ci_low": 0.5227016106684859,
+    "ci_high": 0.5741534014519417
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6545454545454547,
+    "ci_low": 0.540909090909091,
+    "ci_high": 0.7401515151515151
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.40199118245158194,
+    "ci_low": 0.10916395584504685,
+    "ci_high": 0.6600021737351268
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.07521756365448559,
+    "ci_low": 0.02705084214924811,
+    "ci_high": 0.11951829211677932
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "is_dsr_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5504547310225583,
+    "ci_low": 0.5234403812311086,
+    "ci_high": 0.5751405542210076
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6568181818181819,
+    "ci_low": 0.5431250000000001,
+    "ci_high": 0.7424242424242423
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.40073212549127907,
+    "ci_low": 0.1005996127400489,
+    "ci_high": 0.6567668737400979
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "is_sharpe",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.07397520169393328,
+    "ci_low": 0.02517773013446725,
+    "ci_high": 0.1185745261630175
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "is_sharpe",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5497319779856662,
+    "ci_low": 0.5225750383464414,
+    "ci_high": 0.5743554688346895
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6484848484848484,
+    "ci_low": 0.5325378787878787,
+    "ci_high": 0.7333333333333333
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3670456498196664,
+    "ci_low": 0.07639485448836134,
+    "ci_high": 0.594892057886954
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.07789831900254762,
+    "ci_low": -0.015985325515290406,
+    "ci_high": 0.1751038940120045
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5514276775551056,
+    "ci_low": 0.49380585096381097,
+    "ci_high": 0.6050686669550686
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2765627856419836,
+    "ci_low": 0.24144129303008294,
+    "ci_high": 0.31522785286436955
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.30043017399968097,
+    "ci_low": 0.2426144302998472,
+    "ci_high": 0.36250467577251905
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6696969696969698,
+    "ci_low": 0.5628598484848486,
+    "ci_high": 0.7545454545454546
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4147731130389872,
+    "ci_low": 0.15531495239517334,
+    "ci_high": 0.6262545038562822
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.10345773316161305,
+    "ci_low": 0.019568699162276736,
+    "ci_high": 0.19574951370320653
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5306571425275373,
+    "ci_low": 0.4764880714839494,
+    "ci_high": 0.5893181241016209
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.25858434369710764,
+    "ci_low": 0.23924163017041156,
+    "ci_high": 0.28796000553136786
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.27864327898237,
+    "ci_low": 0.2570787815428336,
+    "ci_high": 0.30919188151841615
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6606060606060606,
+    "ci_low": 0.5568181818181818,
+    "ci_high": 0.7416666666666667
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3789529381214484,
+    "ci_low": 0.10577892914225487,
+    "ci_high": 0.6087163296330718
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.0694758121383464,
+    "ci_low": -0.012265918038736804,
+    "ci_high": 0.152918252878223
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5464455436389766,
+    "ci_low": 0.49410149574034673,
+    "ci_high": 0.5960763310546707
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2780494525332762,
+    "ci_low": 0.24336532435664607,
+    "ci_high": 0.3162764256807079
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3003726845416551,
+    "ci_low": 0.24046073773829585,
+    "ci_high": 0.36295115446212606
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.681060606060606,
+    "ci_low": 0.5803030303030304,
+    "ci_high": 0.7629166666666665
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4264196636670421,
+    "ci_low": 0.1836703120767284,
+    "ci_high": 0.6534726132613703
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.0873371898935589,
+    "ci_low": 0.015320831511983693,
+    "ci_high": 0.16609241654771986
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.52508849344028,
+    "ci_low": 0.47562076746408927,
+    "ci_high": 0.579840332483455
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2597547232671823,
+    "ci_low": 0.23803967570995813,
+    "ci_high": 0.2912434161149917
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.275601575531787,
+    "ci_low": 0.24804918765332792,
+    "ci_high": 0.310213331604647
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6575757575757575,
+    "ci_low": 0.5499999999999999,
+    "ci_high": 0.7325757575757575
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3925807081855897,
+    "ci_low": 0.13808000069556625,
+    "ci_high": 0.5892485961890493
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.10437928870618175,
+    "ci_low": 0.010602820738729493,
+    "ci_high": 0.20414556922945665
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.561559346131866,
+    "ci_low": 0.5004201009442274,
+    "ci_high": 0.6225918040943087
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.273854085700996,
+    "ci_low": 0.2394816040461631,
+    "ci_high": 0.312241877309027
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3063394781939272,
+    "ci_low": 0.2510257135430164,
+    "ci_high": 0.36604507942679837
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6765151515151514,
+    "ci_low": 0.5734659090909091,
+    "ci_high": 0.7583522727272726
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.43768648382978576,
+    "ci_low": 0.22353261664167026,
+    "ci_high": 0.6351303842663469
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.132553164467653,
+    "ci_low": 0.04565603291633854,
+    "ci_high": 0.22997179416592567
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5401424803775922,
+    "ci_low": 0.4771629426667298,
+    "ci_high": 0.6070048391847606
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.24514509495028386,
+    "ci_low": 0.218746020459695,
+    "ci_high": 0.2817123673524405
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.2691439055940428,
+    "ci_low": 0.24384687280104536,
+    "ci_high": 0.30506582933263077
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6606060606060606,
+    "ci_low": 0.5499999999999999,
+    "ci_high": 0.7394128787878786
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.40882912598803256,
+    "ci_low": 0.15323413991523965,
+    "ci_high": 0.6165755695623298
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.10121814877059981,
+    "ci_low": 0.011770959172121247,
+    "ci_high": 0.2000996422779486
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5598023579759978,
+    "ci_low": 0.5023765893146479,
+    "ci_high": 0.6190249642980925
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2742773434094627,
+    "ci_low": 0.2400817941264584,
+    "ci_high": 0.3119433299812108
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.30653935665069204,
+    "ci_low": 0.2502687556024182,
+    "ci_high": 0.3660180297692611
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6704545454545454,
+    "ci_low": 0.5628598484848485,
+    "ci_high": 0.7530492424242423
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4431148937328656,
+    "ci_low": 0.23120454512269964,
+    "ci_high": 0.635767887887983
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.12868078681858106,
+    "ci_low": 0.04548350679306841,
+    "ci_high": 0.22436160573955485
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5373106721800983,
+    "ci_low": 0.47634762185131196,
+    "ci_high": 0.6022968821391483
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2451207136163388,
+    "ci_low": 0.21900788726884818,
+    "ci_high": 0.2807338684539424
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.26881900700045347,
+    "ci_low": 0.24478574100500686,
+    "ci_high": 0.3029835175903972
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "random",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6303030303030303,
+    "ci_low": 0.5158901515151515,
+    "ci_high": 0.7310795454545452
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3673655675725462,
+    "ci_low": 0.08571487650910657,
+    "ci_high": 0.6183966758087017
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "random",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.010769335067415174,
+    "ci_low": 0.007178831521638997,
+    "ci_high": 0.01416106772655063
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "method": "random",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5011963399710663,
+    "ci_low": 0.49291942538457223,
+    "ci_high": 0.5083321740667754
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6060606060606061,
+    "ci_low": 0.47575757575757577,
+    "ci_high": 0.7068181818181819
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.25685456817709656,
+    "ci_low": -0.040098944499239925,
+    "ci_high": 0.522319417711742
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.09852340152552426,
+    "ci_low": 0.04932810480157745,
+    "ci_high": 0.1417252019597286
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "is_dsr_eff",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5582309337609254,
+    "ci_low": 0.5291116427524077,
+    "ci_high": 0.5837331088393253
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6075757575757577,
+    "ci_low": 0.480284090909091,
+    "ci_high": 0.7045643939393939
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.26958860695876335,
+    "ci_low": -0.015913973366350632,
+    "ci_high": 0.5308687464609282
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.10034884119055903,
+    "ci_low": 0.05141264865195502,
+    "ci_high": 0.1435447111009263
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "is_dsr_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5591642207474657,
+    "ci_low": 0.5301896457906158,
+    "ci_high": 0.5847398911026086
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6121212121212122,
+    "ci_low": 0.4833333333333334,
+    "ci_high": 0.7098674242424241
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.26875629288373193,
+    "ci_low": -0.021602272255467007,
+    "ci_high": 0.528126603135152
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "is_sharpe",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.09900892267283791,
+    "ci_low": 0.04951516532383118,
+    "ci_high": 0.1422504141360629
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "is_sharpe",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5583508158146862,
+    "ci_low": 0.529142970473166,
+    "ci_high": 0.5838201933606043
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6083333333333333,
+    "ci_low": 0.49166666666666675,
+    "ci_high": 0.6939393939393939
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.23926526950231086,
+    "ci_low": -0.048562931803556905,
+    "ci_high": 0.466104598737842
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.08919361778389223,
+    "ci_low": -0.008644914627907077,
+    "ci_high": 0.19372241281728508
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5549788317708348,
+    "ci_low": 0.4994084390245895,
+    "ci_high": 0.6104989018235529
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2811666413632888,
+    "ci_low": 0.25337956774154,
+    "ci_high": 0.312174423147677
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.29894810666862615,
+    "ci_low": 0.2511328671066418,
+    "ci_high": 0.34936651074440084
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6318181818181818,
+    "ci_low": 0.5272537878787878,
+    "ci_high": 0.7166666666666667
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3116507950869147,
+    "ci_low": 0.06948944774262332,
+    "ci_high": 0.5168345440796828
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.13543057805093775,
+    "ci_low": 0.05304081065758387,
+    "ci_high": 0.22664920295121632
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5505017559255443,
+    "ci_low": 0.4992498050807685,
+    "ci_high": 0.6068785765378362
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.27230909077029974,
+    "ci_low": 0.2513215905439734,
+    "ci_high": 0.29978304954274804
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.2873685187127529,
+    "ci_low": 0.2609027744789396,
+    "ci_high": 0.3272432430396703
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6106060606060606,
+    "ci_low": 0.5022727272727272,
+    "ci_high": 0.6984848484848484
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.24300495280395734,
+    "ci_low": -0.02890542928459489,
+    "ci_high": 0.4713231220839531
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.08138402785674827,
+    "ci_low": -0.0017104552072847218,
+    "ci_high": 0.17026715981016488
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5499910781484236,
+    "ci_low": 0.4994357592782393,
+    "ci_high": 0.6014933518195719
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2826239941338838,
+    "ci_low": 0.25522666943413996,
+    "ci_high": 0.31281770512679985
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.2981219090509317,
+    "ci_low": 0.2483232483484233,
+    "ci_high": 0.34953948711769095
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6393939393939395,
+    "ci_low": 0.5401325757575758,
+    "ci_high": 0.7242424242424241
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3147215646176489,
+    "ci_low": 0.0817116949003186,
+    "ci_high": 0.5348285844164266
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.11516199523804303,
+    "ci_low": 0.04522390961909352,
+    "ci_high": 0.19112756773633569
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5425699180142923,
+    "ci_low": 0.4952826725199464,
+    "ci_high": 0.5954497579895761
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.27300156392743347,
+    "ci_low": 0.24972740458101297,
+    "ci_high": 0.30357468509115454
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.2829317232883342,
+    "ci_low": 0.2513049178819227,
+    "ci_high": 0.3264299816676236
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6075757575757575,
+    "ci_low": 0.4878598484848485,
+    "ci_high": 0.6886363636363636
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.24770320561226547,
+    "ci_low": -0.015397462043357095,
+    "ci_high": 0.44465270961485037
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.13320817751179265,
+    "ci_low": 0.03283214917858922,
+    "ci_high": 0.24398358827759947
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5771150007908209,
+    "ci_low": 0.5200878367303929,
+    "ci_high": 0.6371014337001935
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.278747618417488,
+    "ci_low": 0.2511938267564161,
+    "ci_high": 0.3100939028772597
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3070417770638213,
+    "ci_low": 0.2594138597186071,
+    "ci_high": 0.3545604371019952
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6371212121212122,
+    "ci_low": 0.5363636363636364,
+    "ci_high": 0.7227272727272728
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.32692459743794056,
+    "ci_low": 0.13170801975293572,
+    "ci_high": 0.5154417668967471
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.18033387515551713,
+    "ci_low": 0.09443669406374347,
+    "ci_high": 0.27703189845742887
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5682417422022792,
+    "ci_low": 0.5086301974365189,
+    "ci_high": 0.6319810770305421
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.25777291000463953,
+    "ci_low": 0.23078094574826233,
+    "ci_high": 0.293822712329082
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.27647475975064967,
+    "ci_low": 0.2457881497441069,
+    "ci_high": 0.31866515818822355
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6128787878787878,
+    "ci_low": 0.4939015151515151,
+    "ci_high": 0.696969696969697
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.2694551387626505,
+    "ci_low": 0.0014876122188823646,
+    "ci_high": 0.47282966742300586
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.12774029891148989,
+    "ci_low": 0.030797361056545004,
+    "ci_high": 0.23583920728169872
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5745823062942521,
+    "ci_low": 0.5208237214219194,
+    "ci_high": 0.6333012933725698
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2793180604996225,
+    "ci_low": 0.25174771323039014,
+    "ci_high": 0.3105324788844342
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.30666046606688874,
+    "ci_low": 0.2597482532412324,
+    "ci_high": 0.3542186477678332
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6333333333333333,
+    "ci_low": 0.5257575757575758,
+    "ci_high": 0.7197348484848483
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.33573211681041587,
+    "ci_low": 0.1373211529053546,
+    "ci_high": 0.5239293273071433
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.17407883361739002,
+    "ci_low": 0.09155697805868442,
+    "ci_high": 0.2716061188098155
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5647863792816848,
+    "ci_low": 0.5073928665509746,
+    "ci_high": 0.6275713505535606
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.25771469929427265,
+    "ci_low": 0.2309725410814927,
+    "ci_high": 0.29272244624646954
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.27549876536980616,
+    "ci_low": 0.24519099552448928,
+    "ci_high": 0.3168227473105839
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "random",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.575,
+    "ci_low": 0.4628598484848485,
+    "ci_high": 0.6795833333333331
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.21260686788872862,
+    "ci_low": -0.06314442052649208,
+    "ci_high": 0.46619463141000517
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "random",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.010852672066974116,
+    "ci_low": 0.007427576772565554,
+    "ci_high": 0.014446834340750897
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "method": "random",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5005494836088972,
+    "ci_low": 0.49376424995877216,
+    "ci_high": 0.5069620128921667
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6704545454545454,
+    "ci_low": 0.5628598484848486,
+    "ci_high": 0.756060606060606
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.45693097882116196,
+    "ci_low": 0.14754539486659982,
+    "ci_high": 0.7160343353379522
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.0593981004468205,
+    "ci_low": 0.011370510569235527,
+    "ci_high": 0.10451044966064899
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "is_dsr_eff",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5425333334619743,
+    "ci_low": 0.5154603650109838,
+    "ci_high": 0.5688486496245743
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6712121212121213,
+    "ci_low": 0.5621212121212121,
+    "ci_high": 0.7545643939393939
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.46839744528079524,
+    "ci_low": 0.16819827324470096,
+    "ci_high": 0.7232009828101188
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.06077910789423923,
+    "ci_low": 0.012825304018016098,
+    "ci_high": 0.1059340800225553
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "is_dsr_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5432844676462311,
+    "ci_low": 0.516387878106665,
+    "ci_high": 0.5695327583711066
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6742424242424243,
+    "ci_low": 0.566628787878788,
+    "ci_high": 0.7583333333333333
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4669371125038946,
+    "ci_low": 0.16293627817864598,
+    "ci_high": 0.721153006082417
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "is_sharpe",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.059606812515968846,
+    "ci_low": 0.011451881521226627,
+    "ci_high": 0.10497454533923671
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "is_sharpe",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5425684238803362,
+    "ci_low": 0.5154899696350426,
+    "ci_high": 0.5691729958599254
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6621212121212122,
+    "ci_low": 0.544659090909091,
+    "ci_high": 0.7485037878787878
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.43109118248681605,
+    "ci_low": 0.13569796714745888,
+    "ci_high": 0.6646165345735707
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.07094316314846881,
+    "ci_low": -0.020814760253647587,
+    "ci_high": 0.16426505790400736
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5463959676068035,
+    "ci_low": 0.4895568925485037,
+    "ci_high": 0.6000588013016452
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.27405753564531604,
+    "ci_low": 0.23483318368791772,
+    "ci_high": 0.31721969287348195
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.30209234814561176,
+    "ci_low": 0.24052193067367528,
+    "ci_high": 0.36972797013388864
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6848484848484848,
+    "ci_low": 0.5810606060606062,
+    "ci_high": 0.768939393939394
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4662005625863346,
+    "ci_low": 0.20263571176403533,
+    "ci_high": 0.6828394777321544
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.08577883129386706,
+    "ci_low": 0.0015720725761980334,
+    "ci_high": 0.1796113311880793
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5216520830907797,
+    "ci_low": 0.4676958603759761,
+    "ci_high": 0.5809340565411517
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.25145521623868083,
+    "ci_low": 0.23340226672197603,
+    "ci_high": 0.28007229631156133
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.2746295110165049,
+    "ci_low": 0.25316497227234114,
+    "ci_high": 0.3012796860190623
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6765151515151515,
+    "ci_low": 0.5757386363636363,
+    "ci_high": 0.7553219696969696
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.44719395596636474,
+    "ci_low": 0.17150577345758708,
+    "ci_high": 0.6826305004070603
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.06242218135249101,
+    "ci_low": -0.01761542281225668,
+    "ci_high": 0.14142561075744006
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5423990837496757,
+    "ci_low": 0.4906315916762213,
+    "ci_high": 0.5919854632552806
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.27543456227636565,
+    "ci_low": 0.23701266784474326,
+    "ci_high": 0.3179129389827339
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3012907478099594,
+    "ci_low": 0.23739823745912864,
+    "ci_high": 0.3707581964401957
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6962121212121212,
+    "ci_low": 0.5992424242424242,
+    "ci_high": 0.7780303030303028
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4823142078557957,
+    "ci_low": 0.2340525472066075,
+    "ci_high": 0.7111483779312178
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.07214558887459331,
+    "ci_low": -0.0009901058791715574,
+    "ci_high": 0.15186727964702815
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5165973161605663,
+    "ci_low": 0.4676661239119371,
+    "ci_high": 0.5715842674860842
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2528071607245888,
+    "ci_low": 0.2322577660525359,
+    "ci_high": 0.2835375274385488
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.2736231054741762,
+    "ci_low": 0.247224218873846,
+    "ci_high": 0.30473353294271965
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6742424242424243,
+    "ci_low": 0.5666666666666667,
+    "ci_high": 0.7507575757575757
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.46521798943780585,
+    "ci_low": 0.20876420058372053,
+    "ci_high": 0.6682765497931381
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.08832664604747135,
+    "ci_low": 0.00016775661568258537,
+    "ci_high": 0.18338790650052111
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5494065236995233,
+    "ci_low": 0.4891984583604937,
+    "ci_high": 0.6105726366840998
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2711692158073409,
+    "ci_low": 0.23358474680713714,
+    "ci_high": 0.31371457427580346
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3058109911373144,
+    "ci_low": 0.24514166502251405,
+    "ci_high": 0.3719258492861822
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6909090909090909,
+    "ci_low": 0.5863446969696969,
+    "ci_high": 0.7727272727272727
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.4928603043421219,
+    "ci_low": 0.2668562022815377,
+    "ci_high": 0.695243937382528
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.10574738640912598,
+    "ci_low": 0.020908428900199158,
+    "ci_high": 0.2013703173323585
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5261169746720432,
+    "ci_low": 0.4648809131203333,
+    "ci_high": 0.5913889757613032
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.23886682272188461,
+    "ci_low": 0.2131291520351898,
+    "ci_high": 0.2748298429888558
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.2651179312982441,
+    "ci_low": 0.2416420045424946,
+    "ci_high": 0.29681412666130325
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6803030303030303,
+    "ci_low": 0.5696969696969698,
+    "ci_high": 0.7613636363636364
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.47875538918984223,
+    "ci_low": 0.22477763441953375,
+    "ci_high": 0.6934318042565933
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.08638921903220911,
+    "ci_low": 0.0012526167170309344,
+    "ci_high": 0.18044811903680688
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5490431527827172,
+    "ci_low": 0.49167864535013356,
+    "ci_high": 0.608114792296091
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.27149632402921703,
+    "ci_low": 0.23438539981687445,
+    "ci_high": 0.3136640536542528
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.30643211072983895,
+    "ci_low": 0.2455855674961069,
+    "ci_high": 0.37344389915813364
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6878787878787879,
+    "ci_low": 0.5780113636363636,
+    "ci_high": 0.772746212121212
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.49667409870891466,
+    "ci_low": 0.273310709631232,
+    "ci_high": 0.696519302708877
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.10314986555932952,
+    "ci_low": 0.0215197796738262,
+    "ci_high": 0.1969363756618904
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5233448549043155,
+    "ci_low": 0.4646919877067138,
+    "ci_high": 0.5873798486258363
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.23883952312175005,
+    "ci_low": 0.21330005207603267,
+    "ci_high": 0.27406002051733275
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.26465504480987184,
+    "ci_low": 0.24189440125232117,
+    "ci_high": 0.29507881241146144
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "random",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6575757575757576,
+    "ci_low": 0.540909090909091,
+    "ci_high": 0.753030303030303
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.44513884434672685,
+    "ci_low": 0.16049779735830474,
+    "ci_high": 0.6937355481740777
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "random",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.010284750765881376,
+    "ci_low": 0.0068812170011593315,
+    "ci_high": 0.013395700629781373
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "method": "random",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5021936330101927,
+    "ci_low": 0.49513122603670306,
+    "ci_high": 0.509808531236589
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5636363636363636,
+    "ci_low": 0.4090909090909091,
+    "ci_high": 0.6863636363636364
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.21582451758803423,
+    "ci_low": -0.18411044802757184,
+    "ci_high": 0.5780983879667454
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.04597538815099438,
+    "ci_low": 0.0038532312235981052,
+    "ci_high": 0.09109683192472762
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_eff",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5403255500450416,
+    "ci_low": 0.5005562885046108,
+    "ci_high": 0.5767259712424935
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5795454545454546,
+    "ci_low": 0.43630681818181816,
+    "ci_high": 0.6954545454545454
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.25020166651119147,
+    "ci_low": -0.12873327829234468,
+    "ci_high": 0.5923269531679448
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.047772822747775216,
+    "ci_low": 0.006403761051051426,
+    "ci_high": 0.09260699047576405
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "is_dsr_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5410542286031825,
+    "ci_low": 0.5012081405848376,
+    "ci_high": 0.5775942187372508
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5727272727272728,
+    "ci_low": 0.4272159090909091,
+    "ci_high": 0.6909090909090909
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.23495066678340482,
+    "ci_low": -0.15319961471608798,
+    "ci_high": 0.5873467961161631
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "is_sharpe",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.04597607385357954,
+    "ci_low": 0.004624649693913131,
+    "ci_high": 0.09074285904073293
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "is_sharpe",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5400120883544969,
+    "ci_low": 0.5004479489567317,
+    "ci_high": 0.5767986324396832
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6045454545454545,
+    "ci_low": 0.5158522727272726,
+    "ci_high": 0.6863636363636364
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3010544715782937,
+    "ci_low": 0.09887246606722351,
+    "ci_high": 0.47811516611727006
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.07886098006418261,
+    "ci_low": -0.032129299747193855,
+    "ci_high": 0.23284226064315572
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5228116473734837,
+    "ci_low": 0.4561888166841698,
+    "ci_high": 0.6058589121034096
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2916329988920365,
+    "ci_low": 0.2516812142227026,
+    "ci_high": 0.33534827633991215
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.31427796137927316,
+    "ci_low": 0.2577031934052007,
+    "ci_high": 0.37259157187445563
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6318181818181817,
+    "ci_low": 0.5294886363636363,
+    "ci_high": 0.7204545454545455
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3302343143731758,
+    "ci_low": 0.10620822560903506,
+    "ci_high": 0.5191591312313464
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.06810463574311604,
+    "ci_low": -0.04650076754280997,
+    "ci_high": 0.22204714577358453
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.514704370968322,
+    "ci_low": 0.44962375934594195,
+    "ci_high": 0.6015720518126882
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2844022352081424,
+    "ci_low": 0.2621853415813569,
+    "ci_high": 0.3058160189519317
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.315596097100013,
+    "ci_low": 0.2946443034075265,
+    "ci_high": 0.3361651186748843
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6022727272727274,
+    "ci_low": 0.5090909090909091,
+    "ci_high": 0.6863636363636364
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.23570731769612563,
+    "ci_low": 0.054128518182155506,
+    "ci_high": 0.4044088517841433
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.06774376233240754,
+    "ci_low": -0.038377644039045415,
+    "ci_high": 0.20237276189690964
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.524106283829109,
+    "ci_low": 0.4628622747173155,
+    "ci_high": 0.5979450055673617
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2952896323211718,
+    "ci_low": 0.25821609261126816,
+    "ci_high": 0.33601033643724226
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3193427861424917,
+    "ci_low": 0.27162356998153453,
+    "ci_high": 0.37422172376706336
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.631818181818182,
+    "ci_low": 0.5272727272727272,
+    "ci_high": 0.7272727272727272
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.27717829884618933,
+    "ci_low": 0.06350908988071055,
+    "ci_high": 0.48855553349679853
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.06549685949843703,
+    "ci_low": -0.040505580651179166,
+    "ci_high": 0.20090407742680158
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5226617829643925,
+    "ci_low": 0.4617666622608224,
+    "ci_high": 0.5966790887393248
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.28724216357914484,
+    "ci_low": 0.2654111735035075,
+    "ci_high": 0.30960095066212073
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "lightgbm_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.31107048788302843,
+    "ci_low": 0.2919493429441557,
+    "ci_high": 0.3327270557272069
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6022727272727273,
+    "ci_low": 0.48403409090909083,
+    "ci_high": 0.7114204545454543
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3007331223374896,
+    "ci_low": 0.08719580424371606,
+    "ci_high": 0.5083805157200886
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.12392906176961399,
+    "ci_low": 0.0020276296032098345,
+    "ci_high": 0.2741046326650906
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5460947069280487,
+    "ci_low": 0.4768622220919562,
+    "ci_high": 0.6298056126319628
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.28876383579034365,
+    "ci_low": 0.24549000571496346,
+    "ci_high": 0.3314823800397123
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.31643432240846475,
+    "ci_low": 0.26448109191161473,
+    "ci_high": 0.37095397068523167
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5840909090909091,
+    "ci_low": 0.4772727272727273,
+    "ci_high": 0.6818181818181818
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.2537727904136806,
+    "ci_low": 0.07156005344830685,
+    "ci_high": 0.42134677946259835
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.07116072527963316,
+    "ci_low": -0.06888718428223282,
+    "ci_high": 0.2507139396235031
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5100261626195207,
+    "ci_low": 0.4357141952192493,
+    "ci_high": 0.610560633088911
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.25425249367395425,
+    "ci_low": 0.23251215560040667,
+    "ci_high": 0.2789901028186945
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.2747868179683586,
+    "ci_low": 0.25097369587990564,
+    "ci_high": 0.3012837103181635
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6340909090909091,
+    "ci_low": 0.5272159090909091,
+    "ci_high": 0.7363636363636363
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.36158648878780597,
+    "ci_low": 0.1355001282835742,
+    "ci_high": 0.577761862679426
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.12123410352726131,
+    "ci_low": -0.009519782070036654,
+    "ci_high": 0.28333609673096627
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5433772152966638,
+    "ci_low": 0.47170307908724,
+    "ci_high": 0.6289396529561142
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2891416739441588,
+    "ci_low": 0.24733681337454927,
+    "ci_high": 0.3315180931282779
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3197838500638053,
+    "ci_low": 0.26841311630538855,
+    "ci_high": 0.37410647048224366
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6022727272727274,
+    "ci_low": 0.5181818181818182,
+    "ci_high": 0.675
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.27783039899974143,
+    "ci_low": 0.11190107344856608,
+    "ci_high": 0.42636385685683514
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.06913463955935353,
+    "ci_low": -0.07349912044709717,
+    "ci_high": 0.2588921472726882
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5085812381248955,
+    "ci_low": 0.43615245770230776,
+    "ci_high": 0.6089781483459771
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.25535462748825233,
+    "ci_low": 0.2335354054656203,
+    "ci_high": 0.2790919408996206
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "logistic_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.2789658102714447,
+    "ci_low": 0.2548763639310228,
+    "ci_high": 0.3039160196592992
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "random",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6181818181818182,
+    "ci_low": 0.5090909090909091,
+    "ci_high": 0.7181818181818183
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.27933866890113795,
+    "ci_low": 0.007196298935915353,
+    "ci_high": 0.5179643890869114
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "random",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.007075111546430698,
+    "ci_low": -0.004774269945844163,
+    "ci_high": 0.018890317312847456
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "base",
+    "method": "random",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5034077237217491,
+    "ci_low": 0.489991339163266,
+    "ci_high": 0.5172690137530566
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5272727272727273,
+    "ci_low": 0.3704545454545455,
+    "ci_high": 0.6500000000000001
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.07828413395508715,
+    "ci_low": -0.336063975089249,
+    "ci_high": 0.45243372971021695
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.07070943309519527,
+    "ci_low": 0.02611633218427827,
+    "ci_high": 0.11438153874038448
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_eff",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5450192932336898,
+    "ci_low": 0.5025059761938321,
+    "ci_high": 0.582680244805972
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5431818181818182,
+    "ci_low": 0.3931818181818182,
+    "ci_high": 0.6613636363636365
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.11426958647061629,
+    "ci_low": -0.273771214238718,
+    "ci_high": 0.46764751433038715
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.07272274712718493,
+    "ci_low": 0.02945362847722483,
+    "ci_high": 0.11613243152462209
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "is_dsr_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5459007079319114,
+    "ci_low": 0.5033611897369192,
+    "ci_high": 0.5835815868092772
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5386363636363636,
+    "ci_low": 0.38630681818181817,
+    "ci_high": 0.6613636363636363
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.09828665699498579,
+    "ci_low": -0.30287583382056976,
+    "ci_high": 0.4647841489324671
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "is_sharpe",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.0709365637000156,
+    "ci_low": 0.02764639511971411,
+    "ci_high": 0.11416589297135407
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "is_sharpe",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.544810428281702,
+    "ci_low": 0.5024273616092044,
+    "ci_high": 0.582847767239946
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5818181818181818,
+    "ci_low": 0.48636363636363633,
+    "ci_high": 0.6682386363636362
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.20054484963154612,
+    "ci_low": 0.003124821707416753,
+    "ci_high": 0.3695218141976666
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.10247223137155692,
+    "ci_low": -0.012877473472625382,
+    "ci_high": 0.2508720611609107
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5366890321236931,
+    "ci_low": 0.4751344343411833,
+    "ci_high": 0.6189306804055633
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.29494736246876163,
+    "ci_low": 0.2606008324389128,
+    "ci_high": 0.33073568366154116
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.308896608949536,
+    "ci_low": 0.25675777638226494,
+    "ci_high": 0.35722615329629054
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.609090909090909,
+    "ci_low": 0.5,
+    "ci_high": 0.7045454545454546
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.23368631801007622,
+    "ci_low": 0.013695868244123083,
+    "ci_high": 0.4166968029948188
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.09676858718801734,
+    "ci_low": -0.019551684530600636,
+    "ci_high": 0.24605430571172598
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.533049547408459,
+    "ci_low": 0.4702761299644975,
+    "ci_high": 0.6160837519520053
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2897864889176137,
+    "ci_low": 0.2706732634629554,
+    "ci_high": 0.30858522343294315
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.31225983474487157,
+    "ci_low": 0.29383808873617195,
+    "ci_high": 0.33362934284944046
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5750000000000001,
+    "ci_low": 0.4795454545454545,
+    "ci_high": 0.6659090909090909
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.12446848154353546,
+    "ci_low": -0.05271825551012631,
+    "ci_high": 0.2861302553189435
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.08711725248970294,
+    "ci_low": -0.02159618073512786,
+    "ci_high": 0.21902644986402053
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5368310284867711,
+    "ci_low": 0.4757575308024902,
+    "ci_high": 0.6109035771156193
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2987027162322475,
+    "ci_low": 0.2665782867454413,
+    "ci_high": 0.3320904170022272
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.31207660377129337,
+    "ci_low": 0.2680673380452381,
+    "ci_high": 0.3555225393326508
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6068181818181818,
+    "ci_low": 0.4954545454545455,
+    "ci_high": 0.709090909090909
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.16714119788811663,
+    "ci_low": -0.03908114567023188,
+    "ci_high": 0.37333864983747794
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.08928327137291868,
+    "ci_low": -0.019264804680949096,
+    "ci_high": 0.2222084954397216
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5389981303713842,
+    "ci_low": 0.4787255971808203,
+    "ci_high": 0.6139749924977895
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.29354430566555806,
+    "ci_low": 0.27455138933784146,
+    "ci_high": 0.31404918318861175
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "lightgbm_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.30718279471083615,
+    "ci_low": 0.2873659838352904,
+    "ci_high": 0.3317029982516033
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5568181818181818,
+    "ci_low": 0.4477272727272727,
+    "ci_high": 0.6613636363636364
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.17958090785199762,
+    "ci_low": -0.01804996103238298,
+    "ci_high": 0.3613663496616655
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.15123868611332822,
+    "ci_low": 0.0322668214108638,
+    "ci_high": 0.30484286566949603
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.559114233636427,
+    "ci_low": 0.4963055216779328,
+    "ci_high": 0.6455362172609701
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.29347961189609856,
+    "ci_low": 0.25547155812987765,
+    "ci_high": 0.3311024106174671
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.31297254394608154,
+    "ci_low": 0.2634769709055545,
+    "ci_high": 0.3611873040914331
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.55,
+    "ci_low": 0.4477272727272727,
+    "ci_high": 0.6454545454545455
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.150682004197993,
+    "ci_low": -0.0263450033537473,
+    "ci_high": 0.32100215607117627
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.11367251367032537,
+    "ci_low": -0.025123962272121977,
+    "ci_high": 0.2881000903717665
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5365816526962374,
+    "ci_low": 0.4663333084645513,
+    "ci_high": 0.6325749344385052
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2627146760915571,
+    "ci_low": 0.2409800078025194,
+    "ci_high": 0.2881166922528596
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.2746156836438069,
+    "ci_low": 0.24308711833377708,
+    "ci_high": 0.3086341807131007
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5977272727272727,
+    "ci_low": 0.49090909090909085,
+    "ci_high": 0.6954545454545454
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.24465809323288462,
+    "ci_low": 0.03416252598805121,
+    "ci_high": 0.4361837602529943
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.1463435736926793,
+    "ci_low": 0.016292522492939276,
+    "ci_high": 0.3125963882959586
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5563356966123871,
+    "ci_low": 0.4906620725454667,
+    "ci_high": 0.6448065007872441
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2941792440654104,
+    "ci_low": 0.25727493553600284,
+    "ci_high": 0.331683815701087
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.31315608227135167,
+    "ci_low": 0.2633272247014802,
+    "ci_high": 0.3616812752318245
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5704545454545454,
+    "ci_low": 0.4863636363636363,
+    "ci_high": 0.6454545454545455
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.17546366385344864,
+    "ci_low": 0.008801314983074923,
+    "ci_high": 0.32447655466905034
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.10966381330649977,
+    "ci_low": -0.034227827850432185,
+    "ci_high": 0.2961286298148596
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5346310319950925,
+    "ci_low": 0.46466556836238065,
+    "ci_high": 0.6321675595023898
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2640569357214777,
+    "ci_low": 0.24260544428046682,
+    "ci_high": 0.288260594326036
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "logistic_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.278499539251614,
+    "ci_low": 0.24650398383750866,
+    "ci_high": 0.310575561096044
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "random",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5704545454545454,
+    "ci_low": 0.47727272727272735,
+    "ci_high": 0.6568181818181817
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.1269593491468598,
+    "ci_low": -0.15197355434568194,
+    "ci_high": 0.37188267921044676
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "random",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.006355857684650879,
+    "ci_low": -0.006446253729232908,
+    "ci_high": 0.018789377449268122
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "high",
+    "method": "random",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5040442735897954,
+    "ci_low": 0.49210644901122286,
+    "ci_high": 0.5161397289793856
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5727272727272728,
+    "ci_low": 0.4136363636363637,
+    "ci_high": 0.7000000000000001
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.28512713121704797,
+    "ci_low": -0.10544840313391549,
+    "ci_high": 0.6421735212351783
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.03258316834208085,
+    "ci_low": -0.009501711591963873,
+    "ci_high": 0.0784256544325276
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_eff",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5385240615048746,
+    "ci_low": 0.4939885186724616,
+    "ci_high": 0.582112225418339
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5863636363636364,
+    "ci_low": 0.4386363636363637,
+    "ci_high": 0.7068181818181818
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.31858796358541236,
+    "ci_low": -0.05133121856585906,
+    "ci_high": 0.6551648376572292
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.03424567090930049,
+    "ci_low": -0.0072431079051028715,
+    "ci_high": 0.08008198704223703
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "is_dsr_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.539203487947041,
+    "ci_low": 0.4950660812742531,
+    "ci_high": 0.5827683369142075
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5795454545454546,
+    "ci_low": 0.4295454545454546,
+    "ci_high": 0.7022727272727273
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.30374606099034573,
+    "ci_low": -0.07708410158760312,
+    "ci_high": 0.6523552785858007
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "is_sharpe",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.03244346766745779,
+    "ci_low": -0.008637656915466684,
+    "ci_high": 0.07793931772573703
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "is_sharpe",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5382317398381016,
+    "ci_low": 0.49428664208931655,
+    "ci_high": 0.5822727030001863
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6181818181818182,
+    "ci_low": 0.5318181818181817,
+    "ci_high": 0.6954545454545454
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3513459130694497,
+    "ci_low": 0.14740528488409743,
+    "ci_high": 0.5344129566242697
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.06586856915230153,
+    "ci_low": -0.04324083851232222,
+    "ci_high": 0.22095894434174967
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5145322137302788,
+    "ci_low": 0.45005038553687327,
+    "ci_high": 0.595721467273529
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.28892697081858626,
+    "ci_low": 0.245541054476344,
+    "ci_high": 0.3362760408008125
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.31636025235846355,
+    "ci_low": 0.2584317253654486,
+    "ci_high": 0.37965353718993283
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6454545454545454,
+    "ci_low": 0.5431818181818182,
+    "ci_high": 0.7318181818181819
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.37841090492571683,
+    "ci_low": 0.15204328872294104,
+    "ci_high": 0.5708046165477285
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.05282864938673886,
+    "ci_low": -0.06036468410844394,
+    "ci_high": 0.210103991359411
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5056141604439257,
+    "ci_low": 0.4425102027009827,
+    "ci_high": 0.5905121874191076
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.28150550400562663,
+    "ci_low": 0.25826812931625964,
+    "ci_high": 0.30435459526846415
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.3173142153019997,
+    "ci_low": 0.2929335887052092,
+    "ci_high": 0.340801270330898
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6227272727272728,
+    "ci_low": 0.5386363636363637,
+    "ci_high": 0.7022727272727273
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.2914038009542612,
+    "ci_low": 0.10359422552360856,
+    "ci_high": 0.463845714816012
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.056977097578673204,
+    "ci_low": -0.04726430770095052,
+    "ci_high": 0.1924078279346971
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5157925805867406,
+    "ci_low": 0.4569660074989099,
+    "ci_high": 0.5875209860240289
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.29267227827142356,
+    "ci_low": 0.2518456663533322,
+    "ci_high": 0.33688611208710123
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.32113987898962404,
+    "ci_low": 0.2708430096670336,
+    "ci_high": 0.3808101199072131
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.65,
+    "ci_low": 0.5522727272727272,
+    "ci_high": 0.740909090909091
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3321917439088545,
+    "ci_low": 0.11514840347532443,
+    "ci_high": 0.5453169637189855
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.05269661943834513,
+    "ci_low": -0.05183153596496162,
+    "ci_high": 0.1875351085545664
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5138370318078209,
+    "ci_low": 0.4549457857550456,
+    "ci_high": 0.5864646932230889
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.284048531894738,
+    "ci_low": 0.26185866878370884,
+    "ci_high": 0.3066679982798774
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "lightgbm_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.31156545758584014,
+    "ci_low": 0.2887862220138331,
+    "ci_high": 0.3357226679889822
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6045454545454546,
+    "ci_low": 0.48630681818181815,
+    "ci_high": 0.7159659090909088
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.36122488398441455,
+    "ci_low": 0.13895630813364093,
+    "ci_high": 0.5803885623966973
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.10811486732316043,
+    "ci_low": -0.015182211286346843,
+    "ci_high": 0.2582028561526599
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5346631555671458,
+    "ci_low": 0.4641498516568221,
+    "ci_high": 0.615782999493311
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2854181530262068,
+    "ci_low": 0.24026497923535822,
+    "ci_high": 0.3300879960972205
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.31697349105920525,
+    "ci_low": 0.26415330003475396,
+    "ci_high": 0.37590675073684093
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.5909090909090909,
+    "ci_low": 0.47954545454545455,
+    "ci_high": 0.6931818181818182
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.30520377516262764,
+    "ci_low": 0.1218455974395256,
+    "ci_high": 0.4753027232970933
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.04793345034772672,
+    "ci_low": -0.09238484822068105,
+    "ci_high": 0.22865662268735887
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.4966638555946675,
+    "ci_low": 0.4260793397491259,
+    "ci_high": 0.5933482333263462
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2501188455686044,
+    "ci_low": 0.22893627249078893,
+    "ci_high": 0.27417793027057485
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_ablated_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.2735899736457115,
+    "ci_low": 0.2538740093042605,
+    "ci_high": 0.29562386945266755
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6386363636363637,
+    "ci_low": 0.5294886363636363,
+    "ci_high": 0.740909090909091
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.41996625333565585,
+    "ci_low": 0.1853933935529208,
+    "ci_high": 0.6459486851321702
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.1066943337115331,
+    "ci_low": -0.025351371000988256,
+    "ci_high": 0.26815832242253046
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5326504423756641,
+    "ci_low": 0.4598813620199396,
+    "ci_high": 0.6166203372117032
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2856658338235892,
+    "ci_low": 0.2417122161897301,
+    "ci_high": 0.3303247049081338
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_calibrated",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.31971385707826816,
+    "ci_low": 0.2678803129921641,
+    "ci_high": 0.37849173078792936
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6113636363636363,
+    "ci_low": 0.5226704545454545,
+    "ci_high": 0.6886931818181815
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.3289069979577872,
+    "ci_low": 0.16169509956141073,
+    "ci_high": 0.4769906297322396
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.04709589065164788,
+    "ci_low": -0.09412946340488572,
+    "ci_high": 0.24095347174308643
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.4964124462368091,
+    "ci_low": 0.42799605288639087,
+    "ci_high": 0.5937291852996666
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "brier",
+    "windows": 11,
+    "mean": 0.2511034651365922,
+    "ci_low": 0.22967062173363317,
+    "ci_high": 0.2740211505915025
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "logistic_full_raw",
+    "metric": "ece",
+    "windows": 11,
+    "mean": 0.27782591460594513,
+    "ci_low": 0.2572160428519219,
+    "ci_high": 0.29825329992675115
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "random",
+    "metric": "survival_rate",
+    "windows": 11,
+    "mean": 0.6454545454545455,
+    "ci_low": 0.5340909090909092,
+    "ci_high": 0.7431818181818183
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 11,
+    "mean": 0.35597162235627605,
+    "ci_low": 0.0876215505170783,
+    "ci_high": 0.5930182057900847
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "random",
+    "metric": "spearman",
+    "windows": 11,
+    "mean": 0.007043306672440055,
+    "ci_low": -0.004373649462611524,
+    "ci_high": 0.018488902568096526
+  },
+  {
+    "experiment": "universe_holdout",
+    "cost_level": "low",
+    "method": "random",
+    "metric": "auc",
+    "windows": 11,
+    "mean": 0.5037023220246535,
+    "ci_low": 0.4901081183113672,
+    "ci_high": 0.5183476950904198
+  }
+]

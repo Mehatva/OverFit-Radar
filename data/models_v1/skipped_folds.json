@@ -1,0 +1,98 @@
+[
+  {
+    "fold": "primary_all_2014-02-26",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "primary_all_2014-09-03",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "primary_all_2015-03-13",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_bollinger_mean_reversion_2014-02-26",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_donchian_breakout_2014-02-26",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_rsi_mean_reversion_2014-02-26",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_sma_crossover_2014-02-26",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_time_series_momentum_2014-02-26",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_volatility_filtered_momentum_2014-02-26",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_bollinger_mean_reversion_2014-09-03",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_donchian_breakout_2014-09-03",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_rsi_mean_reversion_2014-09-03",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_sma_crossover_2014-09-03",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_time_series_momentum_2014-09-03",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_volatility_filtered_momentum_2014-09-03",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_bollinger_mean_reversion_2015-03-13",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_donchian_breakout_2015-03-13",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_rsi_mean_reversion_2015-03-13",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_sma_crossover_2015-03-13",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_time_series_momentum_2015-03-13",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "family_holdout_volatility_filtered_momentum_2015-03-13",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "universe_holdout_all_2014-02-26",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "universe_holdout_all_2014-09-03",
+    "reason": "Insufficient purged fitting/calibration history"
+  },
+  {
+    "fold": "universe_holdout_all_2015-03-13",
+    "reason": "Insufficient purged fitting/calibration history"
+  }
+]

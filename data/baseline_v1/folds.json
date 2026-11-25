@@ -1,0 +1,786 @@
+[
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2014-02-26 00:00:00",
+    "train_rows": 4969,
+    "test_rows": 5280,
+    "train_label_end": "2014-02-25 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2014-09-03 00:00:00",
+    "train_rows": 10188,
+    "test_rows": 5303,
+    "train_label_end": "2014-09-02 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2015-03-13 00:00:00",
+    "train_rows": 15468,
+    "test_rows": 5217,
+    "train_label_end": "2015-03-12 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2015-09-11 00:00:00",
+    "train_rows": 20771,
+    "test_rows": 5145,
+    "train_label_end": "2015-09-10 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2016-03-21 00:00:00",
+    "train_rows": 25988,
+    "test_rows": 5213,
+    "train_label_end": "2016-03-18 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2016-09-26 00:00:00",
+    "train_rows": 31133,
+    "test_rows": 5091,
+    "train_label_end": "2016-09-23 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2017-03-30 00:00:00",
+    "train_rows": 36346,
+    "test_rows": 5066,
+    "train_label_end": "2017-03-29 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2017-10-03 00:00:00",
+    "train_rows": 41437,
+    "test_rows": 5012,
+    "train_label_end": "2017-09-29 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2018-04-06 00:00:00",
+    "train_rows": 46503,
+    "test_rows": 4984,
+    "train_label_end": "2018-04-05 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2018-10-09 00:00:00",
+    "train_rows": 51515,
+    "test_rows": 4967,
+    "train_label_end": "2018-10-08 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2019-04-15 00:00:00",
+    "train_rows": 56499,
+    "test_rows": 4946,
+    "train_label_end": "2019-04-12 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2019-10-24 00:00:00",
+    "train_rows": 61466,
+    "test_rows": 5041,
+    "train_label_end": "2019-10-23 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2020-04-29 00:00:00",
+    "train_rows": 66412,
+    "test_rows": 5127,
+    "train_label_end": "2020-04-28 00:00:00"
+  },
+  {
+    "experiment": "primary",
+    "family": "all",
+    "prediction_date": "2020-10-27 00:00:00",
+    "train_rows": 71453,
+    "test_rows": 5201,
+    "train_label_end": "2020-10-26 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2014-02-26 00:00:00",
+    "train_rows": 4162,
+    "test_rows": 859,
+    "train_label_end": "2014-02-25 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2014-02-26 00:00:00",
+    "train_rows": 4462,
+    "test_rows": 568,
+    "train_label_end": "2014-02-25 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2014-02-26 00:00:00",
+    "train_rows": 4198,
+    "test_rows": 797,
+    "train_label_end": "2014-02-25 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2014-02-26 00:00:00",
+    "train_rows": 4371,
+    "test_rows": 677,
+    "train_label_end": "2014-02-25 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2014-02-26 00:00:00",
+    "train_rows": 4357,
+    "test_rows": 706,
+    "train_label_end": "2014-02-25 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2014-02-26 00:00:00",
+    "train_rows": 3295,
+    "test_rows": 1673,
+    "train_label_end": "2014-02-25 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2014-09-03 00:00:00",
+    "train_rows": 8526,
+    "test_rows": 856,
+    "train_label_end": "2014-09-02 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2014-09-03 00:00:00",
+    "train_rows": 9114,
+    "test_rows": 593,
+    "train_label_end": "2014-09-02 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2014-09-03 00:00:00",
+    "train_rows": 8614,
+    "test_rows": 806,
+    "train_label_end": "2014-09-02 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2014-09-03 00:00:00",
+    "train_rows": 8939,
+    "test_rows": 668,
+    "train_label_end": "2014-09-02 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2014-09-03 00:00:00",
+    "train_rows": 8909,
+    "test_rows": 700,
+    "train_label_end": "2014-09-02 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2014-09-03 00:00:00",
+    "train_rows": 6838,
+    "test_rows": 1680,
+    "train_label_end": "2014-09-02 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2015-03-13 00:00:00",
+    "train_rows": 12947,
+    "test_rows": 839,
+    "train_label_end": "2015-03-12 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2015-03-13 00:00:00",
+    "train_rows": 13826,
+    "test_rows": 575,
+    "train_label_end": "2015-03-12 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2015-03-13 00:00:00",
+    "train_rows": 13097,
+    "test_rows": 812,
+    "train_label_end": "2015-03-12 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2015-03-13 00:00:00",
+    "train_rows": 13542,
+    "test_rows": 642,
+    "train_label_end": "2015-03-12 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2015-03-13 00:00:00",
+    "train_rows": 13483,
+    "test_rows": 669,
+    "train_label_end": "2015-03-12 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2015-03-13 00:00:00",
+    "train_rows": 10445,
+    "test_rows": 1680,
+    "train_label_end": "2015-03-12 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2015-09-11 00:00:00",
+    "train_rows": 17394,
+    "test_rows": 822,
+    "train_label_end": "2015-09-10 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2015-09-11 00:00:00",
+    "train_rows": 18536,
+    "test_rows": 580,
+    "train_label_end": "2015-09-10 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2015-09-11 00:00:00",
+    "train_rows": 17594,
+    "test_rows": 784,
+    "train_label_end": "2015-09-10 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2015-09-11 00:00:00",
+    "train_rows": 18177,
+    "test_rows": 628,
+    "train_label_end": "2015-09-10 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2015-09-11 00:00:00",
+    "train_rows": 18086,
+    "test_rows": 652,
+    "train_label_end": "2015-09-10 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2015-09-11 00:00:00",
+    "train_rows": 14068,
+    "test_rows": 1679,
+    "train_label_end": "2015-09-10 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2016-03-21 00:00:00",
+    "train_rows": 21772,
+    "test_rows": 864,
+    "train_label_end": "2016-03-18 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2016-03-21 00:00:00",
+    "train_rows": 23178,
+    "test_rows": 598,
+    "train_label_end": "2016-03-18 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2016-03-21 00:00:00",
+    "train_rows": 21999,
+    "test_rows": 780,
+    "train_label_end": "2016-03-18 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2016-03-21 00:00:00",
+    "train_rows": 22752,
+    "test_rows": 625,
+    "train_label_end": "2016-03-18 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2016-03-21 00:00:00",
+    "train_rows": 22634,
+    "test_rows": 667,
+    "train_label_end": "2016-03-18 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2016-03-21 00:00:00",
+    "train_rows": 17605,
+    "test_rows": 1679,
+    "train_label_end": "2016-03-18 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2016-09-26 00:00:00",
+    "train_rows": 26095,
+    "test_rows": 810,
+    "train_label_end": "2016-09-23 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2016-09-26 00:00:00",
+    "train_rows": 27743,
+    "test_rows": 574,
+    "train_label_end": "2016-09-23 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2016-09-26 00:00:00",
+    "train_rows": 26360,
+    "test_rows": 770,
+    "train_label_end": "2016-09-23 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2016-09-26 00:00:00",
+    "train_rows": 27269,
+    "test_rows": 593,
+    "train_label_end": "2016-09-23 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2016-09-26 00:00:00",
+    "train_rows": 27127,
+    "test_rows": 666,
+    "train_label_end": "2016-09-23 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2016-09-26 00:00:00",
+    "train_rows": 21071,
+    "test_rows": 1678,
+    "train_label_end": "2016-09-23 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2017-03-30 00:00:00",
+    "train_rows": 30444,
+    "test_rows": 819,
+    "train_label_end": "2017-03-29 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2017-03-30 00:00:00",
+    "train_rows": 32358,
+    "test_rows": 575,
+    "train_label_end": "2017-03-29 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2017-03-30 00:00:00",
+    "train_rows": 30793,
+    "test_rows": 771,
+    "train_label_end": "2017-03-29 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2017-03-30 00:00:00",
+    "train_rows": 31857,
+    "test_rows": 594,
+    "train_label_end": "2017-03-29 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2017-03-30 00:00:00",
+    "train_rows": 31673,
+    "test_rows": 627,
+    "train_label_end": "2017-03-29 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2017-03-30 00:00:00",
+    "train_rows": 24605,
+    "test_rows": 1680,
+    "train_label_end": "2017-03-29 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2017-10-03 00:00:00",
+    "train_rows": 34725,
+    "test_rows": 787,
+    "train_label_end": "2017-09-29 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2017-10-03 00:00:00",
+    "train_rows": 36875,
+    "test_rows": 555,
+    "train_label_end": "2017-09-29 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2017-10-03 00:00:00",
+    "train_rows": 35114,
+    "test_rows": 758,
+    "train_label_end": "2017-09-29 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2017-10-03 00:00:00",
+    "train_rows": 36355,
+    "test_rows": 590,
+    "train_label_end": "2017-09-29 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2017-10-03 00:00:00",
+    "train_rows": 36098,
+    "test_rows": 642,
+    "train_label_end": "2017-09-29 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2017-10-03 00:00:00",
+    "train_rows": 28018,
+    "test_rows": 1680,
+    "train_label_end": "2017-09-29 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2018-04-06 00:00:00",
+    "train_rows": 38972,
+    "test_rows": 777,
+    "train_label_end": "2018-04-05 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2018-04-06 00:00:00",
+    "train_rows": 41366,
+    "test_rows": 542,
+    "train_label_end": "2018-04-05 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2018-04-06 00:00:00",
+    "train_rows": 39409,
+    "test_rows": 770,
+    "train_label_end": "2018-04-05 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2018-04-06 00:00:00",
+    "train_rows": 40827,
+    "test_rows": 584,
+    "train_label_end": "2018-04-05 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2018-04-06 00:00:00",
+    "train_rows": 40537,
+    "test_rows": 632,
+    "train_label_end": "2018-04-05 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2018-04-06 00:00:00",
+    "train_rows": 31404,
+    "test_rows": 1679,
+    "train_label_end": "2018-04-05 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2018-10-09 00:00:00",
+    "train_rows": 43197,
+    "test_rows": 755,
+    "train_label_end": "2018-10-08 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2018-10-09 00:00:00",
+    "train_rows": 45823,
+    "test_rows": 549,
+    "train_label_end": "2018-10-08 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2018-10-09 00:00:00",
+    "train_rows": 43663,
+    "test_rows": 763,
+    "train_label_end": "2018-10-08 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2018-10-09 00:00:00",
+    "train_rows": 45249,
+    "test_rows": 581,
+    "train_label_end": "2018-10-08 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2018-10-09 00:00:00",
+    "train_rows": 44907,
+    "test_rows": 640,
+    "train_label_end": "2018-10-08 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2018-10-09 00:00:00",
+    "train_rows": 34736,
+    "test_rows": 1679,
+    "train_label_end": "2018-10-08 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2019-04-15 00:00:00",
+    "train_rows": 47404,
+    "test_rows": 784,
+    "train_label_end": "2019-04-12 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2019-04-15 00:00:00",
+    "train_rows": 50265,
+    "test_rows": 519,
+    "train_label_end": "2019-04-12 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2019-04-15 00:00:00",
+    "train_rows": 47877,
+    "test_rows": 784,
+    "train_label_end": "2019-04-12 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2019-04-15 00:00:00",
+    "train_rows": 49649,
+    "test_rows": 563,
+    "train_label_end": "2019-04-12 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2019-04-15 00:00:00",
+    "train_rows": 49259,
+    "test_rows": 616,
+    "train_label_end": "2019-04-12 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2019-04-15 00:00:00",
+    "train_rows": 38041,
+    "test_rows": 1680,
+    "train_label_end": "2019-04-12 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2019-10-24 00:00:00",
+    "train_rows": 51616,
+    "test_rows": 787,
+    "train_label_end": "2019-10-23 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2019-10-24 00:00:00",
+    "train_rows": 54683,
+    "test_rows": 571,
+    "train_label_end": "2019-10-23 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2019-10-24 00:00:00",
+    "train_rows": 52081,
+    "test_rows": 788,
+    "train_label_end": "2019-10-23 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2019-10-24 00:00:00",
+    "train_rows": 54035,
+    "test_rows": 598,
+    "train_label_end": "2019-10-23 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2019-10-24 00:00:00",
+    "train_rows": 53586,
+    "test_rows": 619,
+    "train_label_end": "2019-10-23 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2019-10-24 00:00:00",
+    "train_rows": 41329,
+    "test_rows": 1678,
+    "train_label_end": "2019-10-23 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2020-04-29 00:00:00",
+    "train_rows": 55778,
+    "test_rows": 834,
+    "train_label_end": "2020-04-28 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2020-04-29 00:00:00",
+    "train_rows": 59110,
+    "test_rows": 581,
+    "train_label_end": "2020-04-28 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2020-04-29 00:00:00",
+    "train_rows": 56243,
+    "test_rows": 790,
+    "train_label_end": "2020-04-28 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2020-04-29 00:00:00",
+    "train_rows": 58418,
+    "test_rows": 610,
+    "train_label_end": "2020-04-28 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2020-04-29 00:00:00",
+    "train_rows": 57916,
+    "test_rows": 635,
+    "train_label_end": "2020-04-28 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2020-04-29 00:00:00",
+    "train_rows": 44595,
+    "test_rows": 1677,
+    "train_label_end": "2020-04-28 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "bollinger_mean_reversion",
+    "prediction_date": "2020-10-27 00:00:00",
+    "train_rows": 60032,
+    "test_rows": 812,
+    "train_label_end": "2020-10-26 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "donchian_breakout",
+    "prediction_date": "2020-10-27 00:00:00",
+    "train_rows": 63580,
+    "test_rows": 622,
+    "train_label_end": "2020-10-26 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "rsi_mean_reversion",
+    "prediction_date": "2020-10-27 00:00:00",
+    "train_rows": 60496,
+    "test_rows": 790,
+    "train_label_end": "2020-10-26 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "sma_crossover",
+    "prediction_date": "2020-10-27 00:00:00",
+    "train_rows": 62861,
+    "test_rows": 644,
+    "train_label_end": "2020-10-26 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "time_series_momentum",
+    "prediction_date": "2020-10-27 00:00:00",
+    "train_rows": 62338,
+    "test_rows": 656,
+    "train_label_end": "2020-10-26 00:00:00"
+  },
+  {
+    "experiment": "family_holdout",
+    "family": "volatility_filtered_momentum",
+    "prediction_date": "2020-10-27 00:00:00",
+    "train_rows": 47958,
+    "test_rows": 1677,
+    "train_label_end": "2020-10-26 00:00:00"
+  }
+]

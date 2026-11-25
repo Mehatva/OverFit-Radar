@@ -1,0 +1,76 @@
+{
+  "status": "complete",
+  "dataset_sha256": "c9cee85adc012d3c4c20ffbd3dce84ee16315f77a01b847aa0f8f4e5435b2e6e",
+  "dataset_manifest_sha256": "58b45d09aa8c872cf682da470392c0fa985a962b565400f7fc25bf96fa75b2c0",
+  "experiment_code_sha256": "479b94c036024e4fa2ac90c562eaa7a0658fd44e1f67c5644218cc35292d39e0",
+  "experiment_config_sha256": "208f4de7c016ef362815f80b8a5468c2444a4ddefffe469d2c7320ea79a0d68c",
+  "config": {
+    "version": "models-v1",
+    "seed": 42,
+    "final_start": "2022-01-01",
+    "calibration": "latest_available_window_sigmoid",
+    "calibration_bins": 10,
+    "min_fit_windows": 2,
+    "min_fit_rows": 500,
+    "min_calibration_rows": 100,
+    "logistic": {
+      "C": 1.0,
+      "max_iter": 2000,
+      "solver": "liblinear"
+    },
+    "lightgbm": {
+      "n_estimators": 120,
+      "learning_rate": 0.05,
+      "num_leaves": 15,
+      "max_depth": 5,
+      "min_child_samples": 100,
+      "reg_lambda": 1.0,
+      "n_jobs": 2,
+      "deterministic": true,
+      "force_col_wise": true,
+      "verbosity": -1
+    },
+    "heldout_symbols": [
+      "ASIANPAINT_NS",
+      "BHARTIARTL_NS",
+      "LT_NS",
+      "MARUTI_NS"
+    ],
+    "bootstrap": {
+      "repetitions": 2000,
+      "block_length": 2
+    },
+    "shap_sample_rows": 200
+  },
+  "python": "3.12.13",
+  "packages": {
+    "numpy": "2.5.5",
+    "pandas": "3.1.1",
+    "scikit-learn": "1.9.1",
+    "lightgbm": "4.7.0",
+    "shap": "0.54.1"
+  },
+  "claim": "under assumed cost levels",
+  "final_period_evaluated": false,
+  "eligible_folds": 88,
+  "skipped_folds": 24,
+  "primary_windows": 11,
+  "shap_scope": "Last development primary full LightGBM; raw margin, not calibrated probability; 200 sampled rows",
+  "artifacts": {
+    "summary.json": "8d12bd888a3ed93da97ba3ccd24b5460deb7edf229fb48deaf417ab45fbd2107",
+    "logistic_ablated.joblib": "ff73f62ffecab0a128936ff1417a9eba509d23d27d3f89ef4bf20a0e8d29e098",
+    "lightgbm_ablated.joblib": "fcdccb7f7cdff4e8240d2a160312bd6f96fead2ff92f6136b050ffe076b8a154",
+    "paired_comparisons.json": "cea5ae80ac33a3585b0fbc97053d0706f83e0033b6c03a2581336184425c2b71",
+    "per_symbol_metrics.parquet": "37be4557fe6b8d0787ca73ca19a59ec8fd0814c7b9eb56ea3c3376a2e17e0b5e",
+    "shap_importance.json": "a152e363ce534fc0be752403304485da06c9617f81ba23cfdf116fc6277dac5c",
+    "skipped_folds.json": "0a34373f96824b2e4a0f53d5236b8152adf9099f17fcbe8aa8bf5417f5bd5259",
+    "shap_values.npz": "991e21265c01ce6307f92dfa40e402f065c8eaeb5a1df7f1e934b4e485a9f4e6",
+    "model_experiment.yaml": "208f4de7c016ef362815f80b8a5468c2444a4ddefffe469d2c7320ea79a0d68c",
+    "shap_sample.json": "2f72ef344e132a83f67e8638e8296a6b98e5dc960bf26ebab7e6816832b20054",
+    "per_window_metrics.json": "20b06a83a14be1c27137f2e99b5ab60df8023626d4ac7e306cc85827d7a63d4b",
+    "folds.json": "23ea220d62c0f0f1a3b6d11f59bd18a6d0f6995a4369d4ee5b851895ed7ed51e",
+    "lightgbm_full.joblib": "5eb30ebdddf296625d2307eb88f8d621630abe84748e93ce5010929d881282c3",
+    "predictions.parquet": "3bf88f0768e959b1b8799a433ef716bf74053c238d0e5edf56c3d41ef3fef11a",
+    "logistic_full.joblib": "19f00b07c2d613c2cef07e9f700cf9928b4dbe6d9b9d00c68af76fc99d51ade8"
+  }
+}

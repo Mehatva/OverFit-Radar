@@ -1,0 +1,13 @@
+version: models-v1
+seed: 42
+final_start: '2022-01-01'
+calibration: latest_available_window_sigmoid
+calibration_bins: 10
+min_fit_windows: 2
+min_fit_rows: 500
+min_calibration_rows: 100
+logistic: {C: 1.0, max_iter: 2000, solver: liblinear}
+lightgbm: {n_estimators: 120, learning_rate: 0.05, num_leaves: 15, max_depth: 5, min_child_samples: 100, reg_lambda: 1.0, n_jobs: 2, deterministic: true, force_col_wise: true, verbosity: -1}
+heldout_symbols: [ASIANPAINT_NS, BHARTIARTL_NS, LT_NS, MARUTI_NS]
+bootstrap: {repetitions: 2000, block_length: 2}
+shap_sample_rows: 200

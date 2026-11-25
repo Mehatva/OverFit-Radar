@@ -1,0 +1,722 @@
+[
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "baseline": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6116071428571429,
+    "ci_low": 0.5051463293650793,
+    "ci_high": 0.7058630952380952
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "baseline": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.3347368879790538,
+    "ci_low": 0.06994714127084885,
+    "ci_high": 0.5959437931032474
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "baseline": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.00833326362875733,
+    "ci_low": -0.009531333248309412,
+    "ci_high": 0.027669586782372323
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "baseline": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6111111111111109,
+    "ci_low": 0.5036706349206349,
+    "ci_high": 0.7118129960317459
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "baseline": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.3338208775503926,
+    "ci_low": 0.06915592564571306,
+    "ci_high": 0.6053252194933553
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "baseline": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.008981905587921711,
+    "ci_low": -0.007997647153080009,
+    "ci_high": 0.027974323501152525
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "baseline": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6120039682539682,
+    "ci_low": 0.506922123015873,
+    "ci_high": 0.7132167658730157
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "baseline": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.33495186273361827,
+    "ci_low": 0.07094860529334358,
+    "ci_high": 0.6059116248539541
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "baseline": "is_sharpe",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.008024990854395815,
+    "ci_low": -0.009159217963927777,
+    "ci_high": 0.027156223214243783
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "baseline": "random",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6154761904761905,
+    "ci_low": 0.5179216269841269,
+    "ci_high": 0.7111185515873015
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "baseline": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.349372454829635,
+    "ci_low": 0.08742186836914802,
+    "ci_high": 0.6193500288562825
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "base",
+    "baseline": "random",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.004247383123304635,
+    "ci_low": -0.001978491102011625,
+    "ci_high": 0.011511679155611632
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "baseline": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.5740079365079366,
+    "ci_low": 0.47052331349206356,
+    "ci_high": 0.6772891865079367
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "baseline": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.22083456569051488,
+    "ci_low": -0.04005305145067986,
+    "ci_high": 0.5035557316869613
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "baseline": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.02435027167455477,
+    "ci_low": 0.0062722979618317085,
+    "ci_high": 0.0431616526344261
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "baseline": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.5737103174603175,
+    "ci_low": 0.4684449404761905,
+    "ci_high": 0.6744072420634922
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "baseline": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.22011256428715947,
+    "ci_low": -0.04221680774195756,
+    "ci_high": 0.48887485865997604
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "baseline": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.02498467804794013,
+    "ci_low": 0.006623204736783819,
+    "ci_high": 0.043742614823409035
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "baseline": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.5743055555555555,
+    "ci_low": 0.4661681547619049,
+    "ci_high": 0.6805580357142856
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "baseline": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.2212419646791862,
+    "ci_low": -0.054226498181626094,
+    "ci_high": 0.5005888025600155
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "baseline": "is_sharpe",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.02411090943037857,
+    "ci_low": 0.00556646300897522,
+    "ci_high": 0.042871721881920226
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "baseline": "random",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.5723214285714285,
+    "ci_low": 0.47241815476190474,
+    "ci_high": 0.6746056547619048
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "baseline": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.22278571877306463,
+    "ci_low": -0.03207730444166518,
+    "ci_high": 0.5038086340757679
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "high",
+    "baseline": "random",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.004703081710347603,
+    "ci_low": -0.0018344349776359507,
+    "ci_high": 0.01109319068909767
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "baseline": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6324404761904762,
+    "ci_low": 0.5345238095238095,
+    "ci_high": 0.7338318452380951
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "baseline": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.3918735309063324,
+    "ci_low": 0.14455174976581425,
+    "ci_high": 0.6639884803407228
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "baseline": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.0005943542295649433,
+    "ci_low": -0.01657658907684403,
+    "ci_high": 0.019749634968703363
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "baseline": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6324404761904762,
+    "ci_low": 0.5331225198412698,
+    "ci_high": 0.7340525793650795
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "baseline": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.39085899118784123,
+    "ci_low": 0.13877723406006082,
+    "ci_high": 0.663537003400672
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "baseline": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.0012104823613735619,
+    "ci_low": -0.014908225030728639,
+    "ci_high": 0.01982715933911872
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "baseline": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6331349206349206,
+    "ci_low": 0.533923611111111,
+    "ci_high": 0.7327430555555556
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "baseline": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.3919902172709252,
+    "ci_low": 0.13388517276983894,
+    "ci_high": 0.674584014046541
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "baseline": "is_sharpe",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.00023333775849287256,
+    "ci_low": -0.01707113602378926,
+    "ci_high": 0.01913011533771165
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "baseline": "random",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6393849206349208,
+    "ci_low": 0.5433506944444445,
+    "ci_high": 0.7285739087301588
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "baseline": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.41286714430746585,
+    "ci_low": 0.15811953634947964,
+    "ci_high": 0.6747764760010366
+  },
+  {
+    "experiment": "family_holdout",
+    "cost_level": "low",
+    "baseline": "random",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.004012883724714782,
+    "ci_low": -0.0017004162448941932,
+    "ci_high": 0.010631017641237138
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "baseline": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6547619047619049,
+    "ci_low": 0.5571130952380953,
+    "ci_high": 0.7476190476190476
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "baseline": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.40144642607509556,
+    "ci_low": 0.13449161799853848,
+    "ci_high": 0.6795285841245963
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "baseline": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.07889502058609961,
+    "ci_low": 0.03672438755026659,
+    "ci_high": 0.11983761157439117
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "baseline": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.656547619047619,
+    "ci_low": 0.5648660714285715,
+    "ci_high": 0.7476190476190476
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "baseline": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.4095531290758179,
+    "ci_low": 0.15731372658881174,
+    "ci_high": 0.6829405831987004
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "baseline": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.07997532089490723,
+    "ci_low": 0.03955052758226065,
+    "ci_high": 0.1219255148022655
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "baseline": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6589285714285715,
+    "ci_low": 0.5648660714285714,
+    "ci_high": 0.752410714285714
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "baseline": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.4089182676674437,
+    "ci_low": 0.1528851239501953,
+    "ci_high": 0.6854383541804692
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "baseline": "is_sharpe",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.07909314207576264,
+    "ci_low": 0.036397674484823936,
+    "ci_high": 0.12092597754772001
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "baseline": "random",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6101190476190476,
+    "ci_low": 0.5119047619047619,
+    "ci_high": 0.7101190476190476
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "baseline": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.31683303376469507,
+    "ci_low": 0.06370049281783546,
+    "ci_high": 0.5929988355336654
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "base",
+    "baseline": "random",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.007672131029806473,
+    "ci_low": 0.003028886426091328,
+    "ci_high": 0.01208419144082277
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "baseline": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6119047619047618,
+    "ci_low": 0.5035416666666667,
+    "ci_high": 0.7160863095238094
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "baseline": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.27241719788674706,
+    "ci_low": 0.007714536520676986,
+    "ci_high": 0.5574107750951868
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "baseline": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.10226334096244462,
+    "ci_low": 0.06227926866002617,
+    "ci_high": 0.14182187999243598
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "baseline": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6130952380952381,
+    "ci_low": 0.49940476190476196,
+    "ci_high": 0.720252976190476
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "baseline": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.2812104996229451,
+    "ci_low": 0.004014462710114482,
+    "ci_high": 0.5729069503365429
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "baseline": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.1035973310908432,
+    "ci_low": 0.06250467500745026,
+    "ci_high": 0.14194935497903516
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "baseline": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6172619047619047,
+    "ci_low": 0.5100892857142858,
+    "ci_high": 0.719672619047619
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "baseline": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.2810433072169361,
+    "ci_low": 0.019371833476998068,
+    "ci_high": 0.557602832143062
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "baseline": "is_sharpe",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.10262950988694852,
+    "ci_low": 0.06208039728903103,
+    "ci_high": 0.14279391607621686
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "baseline": "random",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.5529761904761905,
+    "ci_low": 0.43750000000000006,
+    "ci_high": 0.6583333333333333
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "baseline": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.16116910042405788,
+    "ci_low": -0.12656763363207957,
+    "ci_high": 0.4320636669385763
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "high",
+    "baseline": "random",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.007809334041532314,
+    "ci_low": 0.003220155514891379,
+    "ci_high": 0.012263613209364482
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "baseline": "is_dsr_eff",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6720238095238097,
+    "ci_low": 0.5761904761904763,
+    "ci_high": 0.7619047619047619
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "baseline": "is_dsr_eff",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.4661733616284067,
+    "ci_low": 0.18821537795848792,
+    "ci_high": 0.7355060834082626
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "baseline": "is_dsr_eff",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.06551894872084962,
+    "ci_low": 0.023821171109875056,
+    "ci_high": 0.10861420873429846
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "baseline": "is_dsr_raw",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6726190476190477,
+    "ci_low": 0.5839136904761904,
+    "ci_high": 0.7625148809523811
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "baseline": "is_dsr_raw",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.473903552783025,
+    "ci_low": 0.22330284482819918,
+    "ci_high": 0.7496849712512198
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "baseline": "is_dsr_raw",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.06643649759010907,
+    "ci_low": 0.024816005633717608,
+    "ci_high": 0.10864793918887142
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "baseline": "is_sharpe",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6755952380952382,
+    "ci_low": 0.5827380952380953,
+    "ci_high": 0.7666666666666666
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "baseline": "is_sharpe",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.47304616470345834,
+    "ci_low": 0.20518391776880726,
+    "ci_high": 0.7487046666968415
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "baseline": "is_sharpe",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.06561277243725801,
+    "ci_low": 0.022939184994436576,
+    "ci_high": 0.10738945446779008
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "baseline": "random",
+    "metric": "survival_rate",
+    "windows": 14,
+    "mean": 0.6357142857142856,
+    "ci_low": 0.5333333333333333,
+    "ci_high": 0.7410863095238095
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "baseline": "random",
+    "metric": "mean_oos_sharpe",
+    "windows": 14,
+    "mean": 0.3950984947708129,
+    "ci_low": 0.13004717360997073,
+    "ci_high": 0.6795397032006688
+  },
+  {
+    "experiment": "primary",
+    "cost_level": "low",
+    "baseline": "random",
+    "metric": "spearman",
+    "windows": 14,
+    "mean": 0.007293304555176167,
+    "ci_low": 0.0026674036993609893,
+    "ci_high": 0.011669516154852943
+  }
+]

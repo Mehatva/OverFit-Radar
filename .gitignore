@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Local data cache (Parquet, CSV, raw downloads)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Trained model artifacts (large binaries — regenerate via scripts/phase6_models.py)
+data/baseline_v1/training.parquet
+data/models_v1/*.joblib
+data/models_v1/*.npz
+data/models_v1/*.parquet
+
+# Scripts pycache
+scripts/__pycache__/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# IDEs & OS
+.DS_Store
+.idea/
+.vscode/
+*.swp

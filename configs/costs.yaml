@@ -1,0 +1,51 @@
+# FROZEN assumed-v1: approximate research inputs, not reconstructed historical charges.
+# All claims: under assumed cost levels. Version changes require dataset regeneration.
+# Headline excludes flat DP charges by explicit research policy.
+# Optional DP sensitivity: fee / fixed sell notional (INR), not portfolio sizing.
+# Historical statutory rates remain approximations pending source verification.
+dp_sensitivity_trade_notionals: [10000, 50000, 100000]
+
+# Dated Indian Cash Equity Transaction Cost Schedule
+# Never hardcode costs in logic: all fees are applied based on the trade execution date.
+
+default_slippage_bps: 7.5      # Assumed half-spread + market impact for large-caps (0.00075)
+cost_multiplier: 1.0           # 1.0 for baseline, 2.0 for stress-testing robustness
+
+# Cost regimes ordered chronologically by effective_date
+# Units: Rates are expressed as decimals (e.g. 0.001 = 0.1%).
+regimes:
+  - effective_date: "2010-01-01"
+    name: "Standard Delivery 2010-2020"
+    stt_delivery_buy: 0.001       # 0.1% on buy
+    stt_delivery_sell: 0.001      # 0.1% on sell
+    stamp_duty_buy: 0.00015       # 0.015% on buy (standardized nationwide July 1, 2020; approximate before)
+    stamp_duty_sell: 0.0          # 0% on sell
+    exchange_txn_fee: 0.0000345   # NSE equity delivery turnover charges (~0.00345%)
+    sebi_turnover_fee: 0.0000010  # ₹10 per crore (0.0001%)
+    brokerage_delivery: 0.0       # Zero delivery brokerage (discount broker standard)
+    gst_rate: 0.18                # 18% GST applied on (Brokerage + Exchange txn fee + SEBI turnover fee)
+    dp_charges_per_sell: 15.93    # Depository Participant flat fee per delivery sell transaction (incl GST)
+
+  - effective_date: "2024-10-01"
+    name: "Post-Budget 2024 / Uniform Charge Regime"
+    stt_delivery_buy: 0.001       # 0.1% on buy
+    stt_delivery_sell: 0.001      # 0.1% on sell
+    stamp_duty_buy: 0.00015       # 0.015% on buy
+    stamp_duty_sell: 0.0          # 0% on sell
+    exchange_txn_fee: 0.0000297   # Revised NSE uniform equity delivery slab (effective Oct 1, 2024: 0.00297%)
+    sebi_turnover_fee: 0.0000010  # ₹10 per crore (0.0001%)
+    brokerage_delivery: 0.0       # Zero delivery brokerage
+    gst_rate: 0.18                # 18% GST on (Brokerage + Exchange fee + SEBI fee)
+    dp_charges_per_sell: 15.93    # Flat DP charge per delivery sell
+
+  - effective_date: "2026-04-01"
+    name: "FY 2026-27 Projected Schedule"
+    stt_delivery_buy: 0.001       # 0.1% on buy
+    stt_delivery_sell: 0.001      # 0.1% on sell
+    stamp_duty_buy: 0.00015       # 0.015% on buy
+    stamp_duty_sell: 0.0          # 0% on sell
+    exchange_txn_fee: 0.0000297   # Flat NSE delivery fee
+    sebi_turnover_fee: 0.0000010  # ₹10 per crore
+    brokerage_delivery: 0.0       # Zero delivery brokerage
+    gst_rate: 0.18                # 18% GST
+    dp_charges_per_sell: 15.93    # DP charge per sell

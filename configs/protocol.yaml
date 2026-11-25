@@ -1,0 +1,21 @@
+version: phase6-v1
+cost_schedule_version: assumed-v1
+cost_claim: under assumed cost levels
+cost_levels: {low: 0.5, base: 1.0, high: 2.0}
+boundaries:
+  start: flat_first_bar
+  end: force_close_at_last_close_with_sell_cost
+  warmup: prior_prices_allowed
+  state: indicator_signal_state_may_use_prior_prices_execution_resets
+splits:
+  primary: forward_all_families
+  secondary: leave_one_family_out
+  eligibility: training_oos_end_strictly_before_test_oos_start
+  final_start: '2022-01-01'
+bootstrap:
+  unit: window
+  method: circular_moving_blocks
+  block_length: 2
+  repetitions: 2000
+  seed: 42
+top_k: 10

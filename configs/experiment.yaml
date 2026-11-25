@@ -1,0 +1,26 @@
+# Experiment, Walk-Forward Rolling Windows, and CSCV Parameters
+
+random_seed: 42
+
+# Rolling Walk-Forward Partitioning
+walk_forward:
+  in_sample_months: 36        # 36 months In-Sample (~756 trading days)
+  out_of_sample_months: 12    # 12 months Out-of-Sample (~252 trading days)
+  step_months: 6              # 6 months rolling step
+  embargo_days: 21            # 21 trading days (1 calendar month) embargo buffer between IS and OOS
+  min_is_trades: 5            # Minimum number of completed trades in IS to qualify for feature extraction
+
+# CSCV (Combinatorial Symmetric Cross-Validation) for PBO
+cscv:
+  num_blocks: 16              # Number of contiguous time partitions S (even integer)
+  train_blocks: 8             # S / 2 blocks used for in-sample combination (C(16, 8) = 12,870 combinations)
+
+# ML Training & Target Label
+labeling:
+  target_metric: "oos_sharpe"
+  survival_threshold: 0.0     # Strategy "survives" if OOS Sharpe after costs > 0.0
+
+# Grouped Time-Forward Split
+cv_split:
+  train_window_ratio: 0.70    # Chronological earlier windows for training/validation, latest 30% for final test
+  group_by: "family"          # Group by strategy family to prevent identical/near-duplicate parameter leakage

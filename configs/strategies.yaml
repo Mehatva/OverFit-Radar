@@ -1,0 +1,127 @@
+# Authoritative parameter grid; 494 configurations with the default settings.
+families:
+  sma_crossover:
+    description: Simple Moving Average Crossover (Fast MA crosses above Slow MA)
+    fast_windows:
+    - 5
+    - 8
+    - 10
+    - 12
+    - 15
+    - 20
+    - 25
+    - 30
+    slow_windows:
+    - 20
+    - 30
+    - 40
+    - 50
+    - 75
+    - 100
+    - 150
+    - 200
+  time_series_momentum:
+    description: 'Time-series momentum: positive return over lookback period, rebalanced
+      every hold_period'
+    lookbacks:
+    - 10
+    - 15
+    - 21
+    - 30
+    - 42
+    - 63
+    - 90
+    - 126
+    - 180
+    - 252
+    holding_periods:
+    - 1
+    - 3
+    - 5
+    - 10
+    - 15
+    - 21
+    - 42
+  rsi_mean_reversion:
+    description: 'RSI Mean Reversion: Enter when RSI drops below oversold, exit when
+      above overbought'
+    windows:
+    - 5
+    - 7
+    - 10
+    - 14
+    - 21
+    oversold_levels:
+    - 20
+    - 25
+    - 30
+    - 35
+    overbought_levels:
+    - 65
+    - 70
+    - 75
+    - 80
+  bollinger_mean_reversion:
+    description: 'Bollinger Bands Mean Reversion: Buy at lower band, exit at middle
+      or upper band'
+    windows:
+    - 10
+    - 15
+    - 20
+    - 25
+    - 30
+    - 40
+    - 50
+    num_stds:
+    - 1.25
+    - 1.5
+    - 1.75
+    - 2.0
+    - 2.25
+    - 2.5
+    exit_at_mid:
+    - true
+    - false
+  donchian_breakout:
+    description: 'Donchian Channel Breakout (Trend Following): Buy on breakout of
+      N-day high, exit on N/2-day low'
+    lookback_high:
+    - 10
+    - 15
+    - 20
+    - 25
+    - 30
+    - 40
+    - 50
+    - 60
+    - 80
+    - 100
+    exit_fraction:
+    - 0.25
+    - 0.33
+    - 0.5
+    - 0.67
+    - 0.75
+    - 1.0
+  volatility_filtered_momentum:
+    description: Momentum conditioned on low/medium volatility (e.g. 21d ATR below
+      100d ATR median)
+    lookbacks:
+    - 15
+    - 21
+    - 30
+    - 42
+    - 63
+    - 90
+    - 126
+    vol_window:
+    - 10
+    - 15
+    - 21
+    - 42
+    vol_percentile_cutoff:
+    - 30
+    - 40
+    - 50
+    - 60
+    - 70
